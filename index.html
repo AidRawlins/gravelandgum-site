@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gravel &amp; Gum — Australian Photographer, Prints from the Road</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;1,400&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --gum:#2F4F3E;
+  --dirt:#B5542A;
+  --gravel:#8B8579;
+  --bone:#F3EFE6;
+  --bitumen:#1F1F1C;
+  --gum-deep:#22392C;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{
+  margin:0;background:var(--gum);color:var(--bone);
+  font:400 17px/1.65 "Source Sans 3",system-ui,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1040px;margin:0 auto;padding:0 24px}
+h1,h2,h3{font-family:"Barlow Condensed",sans-serif;font-weight:600;letter-spacing:.01em;margin:0}
+a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+a:hover{opacity:.82}
+
+/* header + wordmark */
+header.site{padding:32px 0 26px;border-bottom:1px solid rgba(243,239,230,.16)}
+.wordmark{display:flex;align-items:center;gap:16px}
+/* The badge is the only mark. It is a green disc on a cream square, so the
+   container crops it to a circle and the image is scaled up slightly to push
+   the cream margin outside the crop. Confirmed good by Aid 26 Sep 2026. */
+.badge{width:58px;height:58px;flex:0 0 auto;border-radius:50%;overflow:hidden;background:var(--gum-deep)}
+.badge img{display:block;width:100%;height:100%;object-fit:cover;transform:scale(1.16)}
+.wm-text{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:40px;line-height:1;
+  letter-spacing:.055em;color:var(--bone);white-space:nowrap}
+.wm-text .amp{color:var(--dirt);padding:0 .12em}
+.tagline{margin-top:18px;color:rgba(243,239,230,.82);font-size:17px;max-width:56ch}
+
+/* hero */
+.hero{padding:0;border-bottom:1px solid rgba(243,239,230,.14)}
+.heroimg{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--gum-deep)}
+.herocopy{padding:44px 0 52px}
+.herocopy p.lede{max-width:58ch;font-size:20px;line-height:1.6;color:rgba(243,239,230,.9);margin:0}
+.herocopy .script{display:block;margin-top:18px;font-family:"Caveat",cursive;font-weight:600;font-size:28px;color:var(--bone)}
+
+/* sections */
+section{padding:56px 0;border-bottom:1px solid rgba(243,239,230,.14)}
+section.pale{background:var(--bone);color:var(--bitumen);border-bottom-color:rgba(31,31,28,.12)}
+section.pale a{color:var(--gum)}
+h2{font-size:28px;line-height:1.1;margin-bottom:24px}
+
+/* gallery — the curated frames, captioned. Add more by copying one <figure>
+   line and changing the filename and caption; the grid reflows on its own. */
+.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
+figure{margin:0;background:rgba(243,239,230,.06);border-radius:3px;overflow:hidden;outline:1px solid rgba(243,239,230,.14)}
+figure img{display:block;width:100%;height:200px;object-fit:cover;background:var(--bitumen)}
+figcaption{padding:11px 13px 13px;font-size:14px;color:rgba(243,239,230,.75)}
+
+/* strip — smaller tiles, deliberately uncaptioned */
+.striphead{font-size:15px;color:rgba(243,239,230,.55);font-weight:600;text-transform:uppercase;
+  letter-spacing:.06em;margin:44px 0 14px}
+.strip{display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:10px}
+.strip img{display:block;width:100%;height:118px;object-fit:cover;border-radius:2px;background:var(--bitumen)}
+
+/* story */
+.story p{max-width:64ch;margin:0 0 18px;font-size:18px;line-height:1.7;color:rgba(31,31,28,.86)}
+.story .beat{font-style:italic;color:rgba(31,31,28,.7)}
+.storymark{display:block;width:100%;max-width:520px;margin:30px 0 0}
+
+/* gifts */
+.giftgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:16px;margin-top:8px}
+.giftcard{background:rgba(243,239,230,.06);border:1px solid rgba(243,239,230,.16);border-radius:3px;padding:20px}
+.giftcard h3{font-size:19px;margin-bottom:7px}
+.giftcard p{margin:0;font-size:14.5px;color:rgba(243,239,230,.72)}
+
+/* stockists */
+.stocklist{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}
+.stocklist span{border:1px solid rgba(243,239,230,.24);border-radius:20px;padding:7px 16px;font-size:14.5px;color:rgba(243,239,230,.8)}
+
+/* contact */
+.contact p{font-size:19px}
+
+footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
+
+@media(max-width:560px){
+  .wm-text{font-size:32px}
+  .badge{width:48px;height:48px}
+  h2{font-size:24px}
+  figure img{height:170px}
+  .strip{grid-template-columns:repeat(auto-fill,minmax(110px,1fr))}
+  .strip img{height:96px}
+}
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <div class="wordmark">
+      <span class="badge"><img src="images/gg-badge-logo.png" alt="Gravel and Gum badge — a gum leaf and a gravel track in a green circle"></span>
+      <span class="wm-text">GRAVEL<span class="amp">&amp;</span>GUM</span>
+    </div>
+    <p class="tagline">Images from around the world by an Australian photographer, printing in, and posting from, Australia.</p>
+  </div>
+</header>
+
+<div class="hero">
+  <img class="heroimg" src="images/hero-1600.jpg" alt="Great Ocean Road, Victoria — a sealed road curving along a forested headland above a turquoise bay">
+  <div class="wrap herocopy">
+    <p class="lede">From gravel roads and bush camps, high country, snow, castles, coastlines and
+      wherever the next road goes, Gravel &amp; Gum images are often candid, always natural and
+      never artificially generated.
+      <span class="script">May these images open your door to the world.</span>
+    </p>
+  </div>
+</div>
+
+<section>
+  <div class="wrap">
+    <h2>A few favourites</h2>
+    <div class="gallery">
+      <figure><img src="images/IMG_8008.jpg" alt="Great Ocean Road" loading="lazy"><figcaption>Great Ocean Road, Victoria</figcaption></figure>
+      <figure><img src="images/IMG_9849.jpg" alt="Four Mile Beach" loading="lazy"><figcaption>Four Mile Beach, Queensland</figcaption></figure>
+      <figure><img src="images/IMG_9667.jpg" alt="Sea turtle" loading="lazy"><figcaption>Sea turtle, Green Island, Queensland</figcaption></figure>
+      <figure><img src="images/IMG_4160.jpg" alt="Grevillea" loading="lazy"><figcaption>Grevillea, Emu Park, Queensland</figcaption></figure>
+      <figure><img src="images/IMG_5587.jpg" alt="Fishing boats at night" loading="lazy"><figcaption>Fishing boats at night, Fremantle, Western Australia</figcaption></figure>
+      <figure><img src="images/IMG_1307.jpg" alt="Yacht at sunset" loading="lazy"><figcaption>Yacht at sunset, Lake Macquarie, New South Wales</figcaption></figure>
+      <figure><img src="images/IMG_0981.jpg" alt="Hibiscus" loading="lazy"><figcaption>Hibiscus, Sawtell, New South Wales</figcaption></figure>
+      <figure><img src="images/IMG_3986.jpg" alt="Surfers Paradise" loading="lazy"><figcaption>Surfers Paradise, Queensland</figcaption></figure>
+    </div>
+
+    <div class="striphead">More from the road</div>
+    <div class="strip">
+      <img src="images/IMG_0466.jpg" alt="Catamarans drawn up on the sand, Hamilton Island, Queensland" loading="lazy">
+      <img src="images/IMG_0413.jpg" alt="Palms over the water, Whitsunday Islands, Queensland" loading="lazy">
+      <img src="images/IMG_3426.jpg" alt="Strangler fig, Port Macquarie, New South Wales" loading="lazy">
+      <img src="images/IMG_0096.jpg" alt="Water dragon on a rock, Eden, New South Wales" loading="lazy">
+      <img src="images/IMG_0942.jpg" alt="Reef colours through clear water, Great Barrier Reef, Queensland" loading="lazy">
+      <img src="images/IMG_0520.jpg" alt="A double rainbow over the sea from a coastal headland" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<section class="pale story">
+  <div class="wrap">
+    <h2>The Gravel &amp; Gum Story</h2>
+    <p>Every picture here and published started with a drive, ride, hike or walk, not a stock
+      library. Raised with a spirit of adventure where life is more fun if you say "yes" to
+      experiences, adventure and travel shared.</p>
+    <p>I'm based in Victoria, Australia. I print and post from here, on 200&nbsp;gsm premium
+      matte paper by an Australian print partner, so a print from Gravel &amp; Gum isn't
+      waiting three weeks to clear customs.</p>
+    <p>Coasters, cards and small prints, made to travel — coming soon to order
+      online and in select premium retail outlets.</p>
+    <img class="storymark" src="images/gg-linocut.png" alt="A drawn gum leaf with a gravel track running along its midrib" loading="lazy">
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Gifts</h2>
+    <p style="max-width:60ch;color:rgba(243,239,230,.82);margin:0 0 26px">The same photographs,
+      on things worth keeping and small enough to post anywhere.</p>
+    <div class="giftgrid">
+      <div class="giftcard"><h3>Coasters</h3><p>A set from the same photographs, cork-backed and ready for daily use.</p></div>
+      <div class="giftcard"><h3>Small prints</h3><p>A4 and under, ready to frame, in a size that travels well as a gift.</p></div>
+      <div class="giftcard"><h3>Card packs</h3><p>A small set of the same images, for people who still send cards.</p></div>
+      <div class="giftcard"><h3>KDP journals &amp; planners</h3><p>Notebooks and trip planners on Amazon, covered in the same photography.</p></div>
+    </div>
+
+    <h3 style="margin-top:34px;font-size:17px;color:rgba(243,239,230,.6);font-weight:600;text-transform:uppercase;letter-spacing:.04em">Where to find Gravel &amp; Gum</h3>
+    <div class="stocklist">
+      <span>High-end prints — this site only</span>
+      <span>Etsy — shop opening soon</span>
+      <span>Amazon — coming soon</span>
+      <span>Cut Price Gadgets — coming soon</span>
+    </div>
+  </div>
+</section>
+
+<section class="pale contact">
+  <div class="wrap">
+    <h2>Say hello</h2>
+    <p>hello@gravelandgum.com</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>CommsPartner Pty Ltd ATF Rawlins Family Trust trading as Gravel &amp; Gum</p>
+  </div>
+</footer>
+
+</body>
+</html>
