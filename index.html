@@ -83,6 +83,20 @@ figcaption{padding:11px 13px 13px;font-size:14px;color:rgba(243,239,230,.75)}
 .stocklist{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}
 .stocklist span{border:1px solid rgba(243,239,230,.24);border-radius:20px;padding:7px 16px;font-size:14.5px;color:rgba(243,239,230,.8)}
 
+/* where to buy */
+.buyintro{max-width:60ch;color:rgba(243,239,230,.82);margin:0 0 26px}
+.shopgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.shopcard{display:flex;flex-direction:column;text-decoration:none;background:rgba(243,239,230,.06);
+  border:1px solid rgba(243,239,230,.16);border-radius:3px;overflow:hidden}
+.shopcard img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover;background:#fff}
+.shopname{padding:12px 14px 2px;font-size:15.5px;font-weight:600;color:var(--bone)}
+.shopgo{padding:2px 14px 14px;font-size:14px;color:var(--dirt);font-weight:600}
+.shopcard:hover .shopgo{text-decoration:underline}
+.shopall{margin:26px 0 22px}
+.btn{display:inline-block;background:var(--dirt);color:var(--bone);text-decoration:none;font-weight:600;
+  padding:11px 20px;border-radius:3px}
+.stocklist a{color:var(--bone)}
+
 /* contact */
 .contact p{font-size:19px}
 
@@ -156,8 +170,8 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
     <p>I'm based in Victoria, Australia. I print and post from here, on 200&nbsp;gsm premium
       matte paper by an Australian print partner, so a print from Gravel &amp; Gum isn't
       waiting three weeks to clear customs.</p>
-    <p>Coasters, cards and small prints, made to travel — coming soon to order
-      online and in select premium retail outlets.</p>
+    <p>Luggage tags and phone cases made to travel are on sale now — see
+      <a href="#where-to-buy">where to buy</a>. Coasters, cards and small prints are next.</p>
     <img class="storymark" src="images/gg-linocut.png" alt="A drawn gum leaf with a gravel track running along its midrib" loading="lazy">
   </div>
 </section>
@@ -174,12 +188,26 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
       <div class="giftcard"><h3>KDP journals &amp; planners</h3><p>Notebooks and trip planners on Amazon, covered in the same photography.</p></div>
     </div>
 
-    <h3 style="margin-top:34px;font-size:17px;color:rgba(243,239,230,.6);font-weight:600;text-transform:uppercase;letter-spacing:.04em">Where to find Gravel &amp; Gum</h3>
+  </div>
+</section>
+
+<section id="where-to-buy">
+  <div class="wrap">
+    <h2>Where to buy</h2>
+    <p class="buyintro">Gravel &amp; Gum travel gear and gifts are on sale now through our Australian
+      retail partner, Cut Price Gadgets. Each one is printed to order and posted to you, with secure
+      checkout on their site.</p>
+    <div class="shopgrid">
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/norah-head-lighthouse-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6ae0a82de569e.jpg?v=1793108026&amp;width=600" alt="Norah Head Lighthouse luggage tag" loading="lazy"><span class="shopname">Norah Head Lighthouse luggage tag</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/twelve-apostles-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6ae0a3f55c00b.jpg?v=1793106948&amp;width=600" alt="Twelve Apostles luggage tag" loading="lazy"><span class="shopname">Twelve Apostles luggage tag</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/kookaburra-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6adeec70cfbcb.jpg?v=1792994433&amp;width=600" alt="Kookaburra luggage tag" loading="lazy"><span class="shopname">Kookaburra luggage tag</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/night-sky-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6adddbc3a6717.jpg?v=1792924627&amp;width=600" alt="Night Sky luggage tag" loading="lazy"><span class="shopname">Night Sky luggage tag</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/kookaburra-clear-iphone-case-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/clear-case-for-iphone-iphone-7-8-case-on-phone-6adddb346cb54.jpg?v=1792924485&amp;width=600" alt="Kookaburra clear iPhone case" loading="lazy"><span class="shopname">Kookaburra clear iPhone case</span><span class="shopgo">Shop now</span></a>
+    </div>
+    <p class="shopall"><a class="btn" href="https://www.cutpricegadgets.com/collections/gravel-and-gum">See the full Gravel &amp; Gum range</a></p>
     <div class="stocklist">
-      <span>High-end prints — this site only</span>
-      <span>Etsy — shop opening soon</span>
-      <span>Amazon — coming soon</span>
-      <span>Cut Price Gadgets — coming soon</span>
+      <span>Travel gear &amp; gifts — <a href="https://www.cutpricegadgets.com/collections/gravel-and-gum">Cut Price Gadgets</a></span>
+      <span>High-end prints — ask us at <a href="mailto:hello@gravelandgum.com">hello@gravelandgum.com</a></span>
     </div>
   </div>
 </section>
