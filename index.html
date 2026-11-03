@@ -93,6 +93,30 @@ figcaption{padding:11px 13px 13px;font-size:14px;color:rgba(243,239,230,.75)}
 .shopgo{padding:2px 14px 14px;font-size:14px;color:var(--dirt);font-weight:600}
 .shopcard:hover .shopgo{text-decoration:underline}
 .shopall{margin:26px 0 22px}
+.wallgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:24px;margin-bottom:26px}
+.wcard{background:rgba(243,239,230,.06);border:1px solid rgba(243,239,230,.16);border-radius:3px;overflow:hidden}
+.wmain{display:block;position:relative;width:100%;padding:0;border:0;background:#fff;cursor:zoom-in}
+.wmain img{display:block;width:100%;aspect-ratio:1/1;object-fit:contain;background:#fff}
+.wzoom{position:absolute;right:10px;bottom:10px;background:rgba(31,31,28,.72);color:var(--bone);font-size:13px;padding:4px 10px;border-radius:14px}
+.wthumbs{display:flex;gap:8px;padding:10px 14px 0;flex-wrap:wrap}
+.wthumb{width:58px;height:58px;padding:0;border:2px solid transparent;border-radius:2px;background:#fff;cursor:pointer}
+.wthumb.on{border-color:var(--dirt)}
+.wthumb img{display:block;width:100%;height:100%;object-fit:cover}
+.wbody{padding:12px 16px 18px}
+.wbody h3{font-size:22px;margin:4px 0 2px}
+.wfrom{margin:0 0 6px;color:var(--dirt);font-weight:600}
+.wcap{margin:0 0 14px;color:rgba(243,239,230,.8);font-size:15.5px}
+.wpick{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end}
+.wpick label{display:flex;flex-direction:column;font-size:13px;color:rgba(243,239,230,.7);gap:4px}
+.wpick select{font:inherit;font-size:15px;padding:7px 8px;border-radius:3px;border:1px solid rgba(243,239,230,.3);background:var(--gum-deep);color:var(--bone);max-width:100%}
+.wbuy{margin-top:4px}
+.wlist{margin:0;padding-left:18px}.wlist a{color:var(--bone)}
+.wbox{border:0;padding:0;background:transparent;max-width:96vw;max-height:94vh}
+.wbox::backdrop{background:rgba(0,0,0,.85)}
+.wbox img{display:block;max-width:96vw;max-height:90vh;object-fit:contain}
+.wbox button{position:fixed;background:rgba(31,31,28,.75);color:#fff;border:0;font-size:30px;line-height:1;width:46px;height:46px;border-radius:50%;cursor:pointer}
+.wclose{top:14px;right:14px}.wprev{left:10px;top:50%}.wnext{right:10px;top:50%}
+
 .btn{display:inline-block;background:var(--dirt);color:var(--bone);text-decoration:none;font-weight:600;
   padding:11px 20px;border-radius:3px}
 .stocklist a{color:var(--bone)}
@@ -170,8 +194,8 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
     <p>I'm based in Victoria, Australia. I print and post from here, on 200&nbsp;gsm premium
       matte paper by an Australian print partner, so a print from Gravel &amp; Gum isn't
       waiting three weeks to clear customs.</p>
-    <p>Luggage tags and phone cases made to travel are on sale now — see
-      <a href="#where-to-buy">where to buy</a>. Coasters, cards and small prints are next.</p>
+    <p>Mugs, coasters, tees, phone cases and gifts made from our own photos are on sale now at
+      Cut Price Gadgets — see <a href="#where-to-buy">where to buy</a>. Wall art is sold only here.</p>
     <img class="storymark" src="images/gg-linocut.png" alt="A drawn gum leaf with a gravel track running along its midrib" loading="lazy">
   </div>
 </section>
@@ -198,24 +222,162 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
       retail partner, Cut Price Gadgets. Each one is printed to order and posted to you, with secure
       checkout on their site.</p>
     <div class="shopgrid">
-      <a class="shopcard" href="https://www.cutpricegadgets.com/products/norah-head-lighthouse-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6ae0a82de569e.jpg?v=1793108026&amp;width=600" alt="Norah Head Lighthouse luggage tag" loading="lazy"><span class="shopname">Norah Head Lighthouse luggage tag</span><span class="shopgo">Shop now</span></a>
-      <a class="shopcard" href="https://www.cutpricegadgets.com/products/twelve-apostles-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6ae0a3f55c00b.jpg?v=1793106948&amp;width=600" alt="Twelve Apostles luggage tag" loading="lazy"><span class="shopname">Twelve Apostles luggage tag</span><span class="shopgo">Shop now</span></a>
-      <a class="shopcard" href="https://www.cutpricegadgets.com/products/kookaburra-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6adeec70cfbcb.jpg?v=1792994433&amp;width=600" alt="Kookaburra luggage tag" loading="lazy"><span class="shopname">Kookaburra luggage tag</span><span class="shopgo">Shop now</span></a>
-      <a class="shopcard" href="https://www.cutpricegadgets.com/products/night-sky-luggage-tag-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/luggage-tag-2.4x4-front-6adddbc3a6717.jpg?v=1792924627&amp;width=600" alt="Night Sky luggage tag" loading="lazy"><span class="shopname">Night Sky luggage tag</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/sea-turtle-blue-inside-mug-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/white-ceramic-mug-with-color-inside-blue-11-oz-front-6ae5744e262da.jpg?v=1793422428&amp;width=600" alt="Sea Turtle blue-inside mug" loading="lazy"><span class="shopname">Sea Turtle blue-inside mug</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/driftwood-beach-cork-back-coaster"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/cork-back-coaster-front-6ae86beae1a2d.jpg?v=1793616894&amp;width=600" alt="Driftwood Beach coaster" loading="lazy"><span class="shopname">Driftwood Beach coaster</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/bougainvillea-by-the-sea-mug-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/white-glossy-mug-white-11-oz-front-view-6ae929843dd0f.jpg?v=1793665426&amp;width=600" alt="Bougainvillea by the Sea mug" loading="lazy"><span class="shopname">Bougainvillea by the Sea mug</span><span class="shopgo">Shop now</span></a>
+      <a class="shopcard" href="https://www.cutpricegadgets.com/products/heliconia-cork-back-coaster-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/cork-back-coaster-front-6ae7b9445b7ad.jpg?v=1793571155&amp;width=600" alt="Heliconia coaster" loading="lazy"><span class="shopname">Heliconia coaster</span><span class="shopgo">Shop now</span></a>
       <a class="shopcard" href="https://www.cutpricegadgets.com/products/kookaburra-clear-iphone-case-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/clear-case-for-iphone-iphone-7-8-case-on-phone-6adddb346cb54.jpg?v=1792924485&amp;width=600" alt="Kookaburra clear iPhone case" loading="lazy"><span class="shopname">Kookaburra clear iPhone case</span><span class="shopgo">Shop now</span></a>
       <a class="shopcard" href="https://www.cutpricegadgets.com/products/night-sky-clear-iphone-case-gravel-gum"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/clear-case-for-iphone-iphone-7-8-case-on-phone-6ae1aa8c3d4cf.jpg?v=1793174172&amp;width=600" alt="Night Sky clear iPhone case" loading="lazy"><span class="shopname">Night Sky clear iPhone case</span><span class="shopgo">Shop now</span></a>
     </div>
     <p class="shopall"><a class="btn" href="https://www.cutpricegadgets.com/collections/gravel-and-gum">See the full Gravel &amp; Gum range</a></p>
     <h2 id="wall-art">Wall art</h2>
     <p class="buyintro">Our favourite shots, printed in Australia on gallery-wrapped canvas or matte art paper,
-      framed or unframed. Only sold here.</p>
-    <div class="shopgrid">
-      <div class="shopcard"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6ae5763fd9ea7.jpg?v=1793422931&amp;width=600" alt="Palm and Coral Sea canvas print" loading="lazy"><span class="shopname">Palm and Coral Sea canvas</span><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68071634600224:1">Buy 30 × 45 cm, $79.95</a><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68071634632992:1">Buy 40 × 60 cm, $109.95</a></div>
-      <div class="shopcard"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-person-6ae867a42d9da.jpg?v=1793615795&amp;width=600" alt="Driftwood Beach canvas print" loading="lazy"><span class="shopname">Driftwood Beach canvas</span><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68095879741728:1">Buy 30 × 40 cm, $79.95</a><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68095879774496:1">Buy 45 × 60 cm, $119.95</a></div>
-      <div class="shopcard"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-front-6ae86933f0733.jpg?v=1793616184&amp;width=600" alt="Driftwood Beach art print on matte paper" loading="lazy"><span class="shopname">Driftwood Beach art print</span><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68095985910048:1">Buy 30 × 40 cm, $39.95</a><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68095985942816:1">Buy 45 × 60 cm, $54.95</a></div>
-      <div class="shopcard"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-framed-poster-_in_-black-12x16-front-6ae86a18df242.jpg?v=1793616415&amp;width=600" alt="Driftwood Beach framed print" loading="lazy"><span class="shopname">Driftwood Beach framed print</span><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68096050233632:1">Black frame 30 × 40 cm, $89.95</a><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68096050266400:1">Black frame 45 × 60 cm, $129.95</a><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68096050299168:1">White frame 30 × 40 cm, $89.95</a><a class="shopgo" href="https://www.cutpricegadgets.com/cart/68096050331936:1">White frame 45 × 60 cm, $129.95</a></div>
+      framed or unframed. Only sold here. Tap a picture to see it full size.</p>
+    <div class="wallgrid">
+      <article class="wcard" data-print="palm">
+        <button type="button" class="wmain" aria-label="Open Palm and Coral Sea full size"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6ae5763fda718.jpg?v=1793422932&amp;width=1400" alt="Palm and Coral Sea canvas print" loading="lazy"><span class="wzoom">Tap to enlarge</span></button>
+        <div class="wthumbs"><button type="button" class="wthumb" data-i="0" aria-label="View picture 1 of 2"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6ae5763fda718.jpg?v=1793422932&amp;width=200" alt="" loading="lazy"></button><button type="button" class="wthumb" data-i="1" aria-label="View picture 2 of 2"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6ae5763fdae67.jpg?v=1793422931&amp;width=200" alt="" loading="lazy"></button></div>
+        <div class="wbody">
+          <h3>Palm and Coral Sea</h3>
+          <p class="wfrom">From $79.95</p>
+          <p class="wcap">A leaning coconut palm over the Coral Sea in tropical north Queensland.</p>
+          <div class="wpick" hidden>
+            <label>Type <select class="wtype"></select></label>
+            <label>Size <select class="wsize"></select></label>
+            <a class="btn wbuy" href="#">Buy</a>
+          </div>
+          <noscript><ul class="wlist"><li><a href="https://www.cutpricegadgets.com/cart/68071634600224:1">Canvas, 30 × 45 cm: $79.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68071634632992:1">Canvas, 40 × 60 cm: $109.95</a></li></ul></noscript>
+        </div>
+      </article>
+      <article class="wcard" data-print="driftwood">
+        <button type="button" class="wmain" aria-label="Open Driftwood Beach full size"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-framed-poster-_in_-white-12x16-front-6ae86a18dff4d.jpg?v=1793616415&amp;width=1400" alt="Driftwood Beach print" loading="lazy"><span class="wzoom">Tap to enlarge</span></button>
+        <div class="wthumbs"><button type="button" class="wthumb" data-i="0" aria-label="View picture 1 of 4"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-framed-poster-_in_-white-12x16-front-6ae86a18dff4d.jpg?v=1793616415&amp;width=200" alt="" loading="lazy"></button><button type="button" class="wthumb" data-i="1" aria-label="View picture 2 of 4"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-front-6ae867a42ea24.jpg?v=1793615795&amp;width=200" alt="" loading="lazy"></button><button type="button" class="wthumb" data-i="2" aria-label="View picture 3 of 4"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-framed-poster-_in_-black-12x16-front-6ae86a18df242.jpg?v=1793616415&amp;width=200" alt="" loading="lazy"></button><button type="button" class="wthumb" data-i="3" aria-label="View picture 4 of 4"><img src="https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-lifestyle-1-6ae86933ef99c.jpg?v=1793616184&amp;width=200" alt="" loading="lazy"></button></div>
+        <div class="wbody">
+          <h3>Driftwood Beach</h3>
+          <p class="wfrom">From $39.95</p>
+          <p class="wcap">Bleached driftwood, white coral sand and a turquoise Coral Sea, Far North Queensland.</p>
+          <div class="wpick" hidden>
+            <label>Type <select class="wtype"></select></label>
+            <label>Size <select class="wsize"></select></label>
+            <a class="btn wbuy" href="#">Buy</a>
+          </div>
+          <noscript><ul class="wlist"><li><a href="https://www.cutpricegadgets.com/cart/68095879741728:1">Canvas, 30 × 40 cm: $79.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095879774496:1">Canvas, 45 × 60 cm: $119.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095985910048:1">Art print (matte paper), 30 × 40 cm: $39.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095985942816:1">Art print (matte paper), 45 × 60 cm: $54.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050233632:1">Framed print, black, 30 × 40 cm: $89.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050266400:1">Framed print, black, 45 × 60 cm: $129.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050299168:1">Framed print, white, 30 × 40 cm: $89.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050331936:1">Framed print, white, 45 × 60 cm: $129.95</a></li></ul></noscript>
+        </div>
+      </article>
     </div>
-    <p class="buyintro"><b>Driftwood Beach, Far North Queensland.</b> Bleached driftwood, white coral sand and a turquoise Coral Sea. Printed in Australia.</p>
+    <dialog class="wbox" aria-label="Full-size picture"><button type="button" class="wclose" aria-label="Close">×</button><button type="button" class="wprev" aria-label="Previous picture">‹</button><img alt=""><button type="button" class="wnext" aria-label="Next picture">›</button></dialog>
+    <script>
+    /* Wall art: to add a print, add ONE entry here (prices and variant IDs from Shopify). */
+    const WALLART = {
+"palm": {
+"name": "Palm and Coral Sea",
+"images": [
+"https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6ae5763fda718.jpg?v=1793422932",
+"https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6ae5763fdae67.jpg?v=1793422931"
+],
+"options": [
+{
+"type": "Canvas",
+"size": "30 × 45 cm",
+"price": 79.95,
+"variant": "68071634600224"
+},
+{
+"type": "Canvas",
+"size": "40 × 60 cm",
+"price": 109.95,
+"variant": "68071634632992"
+}
+]
+},
+"driftwood": {
+"name": "Driftwood Beach",
+"images": [
+"https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-framed-poster-_in_-white-12x16-front-6ae86a18dff4d.jpg?v=1793616415",
+"https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-front-6ae867a42ea24.jpg?v=1793615795",
+"https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-framed-poster-_in_-black-12x16-front-6ae86a18df242.jpg?v=1793616415",
+"https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-lifestyle-1-6ae86933ef99c.jpg?v=1793616184"
+],
+"options": [
+{
+"type": "Canvas",
+"size": "30 × 40 cm",
+"price": 79.95,
+"variant": "68095879741728"
+},
+{
+"type": "Canvas",
+"size": "45 × 60 cm",
+"price": 119.95,
+"variant": "68095879774496"
+},
+{
+"type": "Art print (matte paper)",
+"size": "30 × 40 cm",
+"price": 39.95,
+"variant": "68095985910048"
+},
+{
+"type": "Art print (matte paper)",
+"size": "45 × 60 cm",
+"price": 54.95,
+"variant": "68095985942816"
+},
+{
+"type": "Framed print, black",
+"size": "30 × 40 cm",
+"price": 89.95,
+"variant": "68096050233632"
+},
+{
+"type": "Framed print, black",
+"size": "45 × 60 cm",
+"price": 129.95,
+"variant": "68096050266400"
+},
+{
+"type": "Framed print, white",
+"size": "30 × 40 cm",
+"price": 89.95,
+"variant": "68096050299168"
+},
+{
+"type": "Framed print, white",
+"size": "45 × 60 cm",
+"price": 129.95,
+"variant": "68096050331936"
+}
+]
+}
+};
+    (function(){
+      const CART='https://www.cutpricegadgets.com/cart/';
+      const big=u=>u+'&width=2000';
+      const box=document.querySelector('.wbox'), boxImg=box.querySelector('img');
+      let cur=null, idx=0;
+      function show(){ boxImg.src=big(cur.images[idx]); boxImg.alt=cur.name+' (picture '+(idx+1)+' of '+cur.images.length+')'; }
+      function open(w,i){ cur=w; idx=i; show(); if(box.showModal) box.showModal(); else window.open(big(w.images[i]),'_blank'); }
+      box.querySelector('.wclose').onclick=()=>box.close();
+      box.querySelector('.wprev').onclick=()=>{idx=(idx+cur.images.length-1)%cur.images.length; show();};
+      box.querySelector('.wnext').onclick=()=>{idx=(idx+1)%cur.images.length; show();};
+      box.addEventListener('click',e=>{ if(e.target===box) box.close(); });
+      document.addEventListener('keydown',e=>{ if(!box.open) return; if(e.key==='ArrowRight') box.querySelector('.wnext').click(); if(e.key==='ArrowLeft') box.querySelector('.wprev').click(); });
+      document.querySelectorAll('.wcard').forEach(card=>{
+        const w=WALLART[card.dataset.print]; if(!w) return;
+        const mainImg=card.querySelector('.wmain img'); let sel=0;
+        card.querySelector('.wmain').onclick=()=>open(w,sel);
+        card.querySelectorAll('.wthumb').forEach(t=>t.onclick=()=>{ sel=+t.dataset.i; mainImg.src=w.images[sel]+'&width=1400'; card.querySelectorAll('.wthumb').forEach(x=>x.classList.toggle('on',x===t)); });
+        const ts=card.querySelector('.wtype'), ss=card.querySelector('.wsize'), buy=card.querySelector('.wbuy');
+        const types=[...new Set(w.options.map(o=>o.type))];
+        ts.innerHTML=types.map(t=>'<option>'+t+'</option>').join('');
+        function sizes(){ const list=w.options.filter(o=>o.type===ts.value); ss.innerHTML=list.map((o,i)=>'<option value="'+o.variant+'">'+o.size+' — $'+o.price.toFixed(2)+'</option>').join(''); link(); }
+        function link(){ const o=w.options.find(o=>o.variant===ss.value); buy.href=CART+o.variant+':1'; buy.textContent='Buy '+o.size+', $'+o.price.toFixed(2); }
+        ts.onchange=sizes; ss.onchange=link; sizes();
+        card.querySelector('.wpick').hidden=false;
+        const first=card.querySelector('.wthumb'); if(first) first.classList.add('on');
+      });
+    })();
+    </script>
     <div class="stocklist">
       <span>Travel gear &amp; gifts — <a href="https://www.cutpricegadgets.com/collections/gravel-and-gum">Cut Price Gadgets</a></span>
       <span>Wall art — <a href="#wall-art">prints above</a>; other sizes, ask us at <a href="mailto:hello@gravelandgum.com">hello@gravelandgum.com</a></span>
