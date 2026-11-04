@@ -116,6 +116,14 @@ figcaption{padding:11px 13px 13px;font-size:14px;color:rgba(243,239,230,.75)}
 .wbox img{display:block;max-width:96vw;max-height:90vh;object-fit:contain}
 .wbox button{position:fixed;background:rgba(31,31,28,.75);color:#fff;border:0;font-size:30px;line-height:1;width:46px;height:46px;border-radius:50%;cursor:pointer}
 .wclose{top:14px;right:14px}.wprev{left:10px;top:50%}.wnext{right:10px;top:50%}
+.bkgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:16px;margin-bottom:26px}
+.bkcard{display:flex;flex-direction:column;background:rgba(243,239,230,.06);border:1px solid rgba(243,239,230,.16);border-radius:3px;overflow:hidden}
+.bkcard img{display:block;width:100%;height:auto;aspect-ratio:360/556;object-fit:cover;background:var(--gum-deep)}
+.bkbody{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.bkbody h3{font-size:19px}
+.bkbody p{margin:0;font-size:14px;color:rgba(243,239,230,.72)}
+.bkbuy{font-size:14px;font-weight:600;color:var(--dirt);text-decoration:none}
+.bkbuy:hover{text-decoration:underline}
 
 .btn{display:inline-block;background:var(--dirt);color:var(--bone);text-decoration:none;font-weight:600;
   padding:11px 20px;border-radius:3px}
@@ -246,7 +254,7 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
             <label>Size <select class="wsize"></select></label>
             <a class="btn wbuy" href="#">Buy</a>
           </div>
-          <noscript><ul class="wlist"><li><a href="https://www.cutpricegadgets.com/cart/68071634600224:1">Canvas, 30 × 45 cm: $79.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68071634632992:1">Canvas, 40 × 60 cm: $109.95</a></li></ul></noscript>
+          <noscript><ul class="wlist"><li><a href="https://www.cutpricegadgets.com/cart/68071634600224:1">Canvas, 30 × 45 cm: $79.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68071634632992:1">Canvas, 40 × 60 cm: $109.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68126212784416:1">Canvas, 51 × 76 cm: $129.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68126212817184:1">Canvas, 61 × 91 cm: $159.95</a></li></ul></noscript>
         </div>
       </article>
       <article class="wcard" data-print="driftwood">
@@ -261,7 +269,7 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
             <label>Size <select class="wsize"></select></label>
             <a class="btn wbuy" href="#">Buy</a>
           </div>
-          <noscript><ul class="wlist"><li><a href="https://www.cutpricegadgets.com/cart/68095879741728:1">Canvas, 30 × 40 cm: $79.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095879774496:1">Canvas, 45 × 60 cm: $119.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095985910048:1">Art print (matte paper), 30 × 40 cm: $39.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095985942816:1">Art print (matte paper), 45 × 60 cm: $54.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050233632:1">Framed print, black, 30 × 40 cm: $89.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050266400:1">Framed print, black, 45 × 60 cm: $129.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050299168:1">Framed print, white, 30 × 40 cm: $89.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050331936:1">Framed print, white, 45 × 60 cm: $129.95</a></li></ul></noscript>
+          <noscript><ul class="wlist"><li><a href="https://www.cutpricegadgets.com/cart/68095879741728:1">Canvas, 30 × 40 cm: $79.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095879774496:1">Canvas, 45 × 60 cm: $119.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68126237753632:1">Canvas, 61 × 81 cm: $149.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095985910048:1">Art print (matte paper), 30 × 40 cm: $39.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68095985942816:1">Art print (matte paper), 45 × 60 cm: $54.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050233632:1">Framed print, black, 30 × 40 cm: $89.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050266400:1">Framed print, black, 45 × 60 cm: $129.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050299168:1">Framed print, white, 30 × 40 cm: $89.95</a></li><li><a href="https://www.cutpricegadgets.com/cart/68096050331936:1">Framed print, white, 45 × 60 cm: $129.95</a></li></ul></noscript>
         </div>
       </article>
     </div>
@@ -287,6 +295,18 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
 "size": "40 × 60 cm",
 "price": 109.95,
 "variant": "68071634632992"
+},
+{
+"type": "Canvas",
+"size": "51 × 76 cm",
+"price": 129.95,
+"variant": "68126212784416"
+},
+{
+"type": "Canvas",
+"size": "61 × 91 cm",
+"price": 159.95,
+"variant": "68126212817184"
 }
 ]
 },
@@ -310,6 +330,12 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
 "size": "45 × 60 cm",
 "price": 119.95,
 "variant": "68095879774496"
+},
+{
+"type": "Canvas",
+"size": "61 × 81 cm",
+"price": 149.95,
+"variant": "68126237753632"
 },
 {
 "type": "Art print (matte paper)",
@@ -378,8 +404,18 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
       });
     })();
     </script>
+    <h2 id="notebooks">Notebooks and logbooks</h2>
+    <p class="buyintro">Journals and logbooks with our photos on the cover, printed and delivered by Amazon.</p>
+    <div class="bkgrid">
+      <div class="bkcard"><a href="https://www.amazon.com.au/dp/B0HQ6Z84TR" target="_blank" rel="noopener"><img src="images/kdp/vehicle-logbook.jpg" alt="Vehicle Logbook cover" loading="lazy" width="360" height="540"></a><div class="bkbody"><h3>Vehicle Logbook</h3><p>Car logbook for business use, for Australian tax records</p><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HQ6Z84TR" target="_blank" rel="noopener">Paperback on Amazon</a></div></div>
+      <div class="bkcard"><a href="https://www.amazon.com.au/dp/B0HP75F1K8" target="_blank" rel="noopener"><img src="images/kdp/driftwood-arch.jpg" alt="Driftwood Arch cover" loading="lazy" width="360" height="556"></a><div class="bkbody"><h3>Driftwood Arch</h3><p>Lined journal, 120 pages</p><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP75F1K8" target="_blank" rel="noopener">Paperback on Amazon</a><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP75T1BY" target="_blank" rel="noopener">Hardcover on Amazon</a></div></div>
+      <div class="bkcard"><a href="https://www.amazon.com.au/dp/B0HP72C63J" target="_blank" rel="noopener"><img src="images/kdp/island-beach.jpg" alt="Island Beach cover" loading="lazy" width="360" height="556"></a><div class="bkbody"><h3>Island Beach</h3><p>Lined journal, 120 pages</p><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP72C63J" target="_blank" rel="noopener">Paperback on Amazon</a><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP7JXL2F" target="_blank" rel="noopener">Hardcover on Amazon</a></div></div>
+      <div class="bkcard"><a href="https://www.amazon.com.au/dp/B0HP3DTJPF" target="_blank" rel="noopener"><img src="images/kdp/lighthouse-golden-hour.jpg" alt="Lighthouse at Golden Hour cover" loading="lazy" width="360" height="556"></a><div class="bkbody"><h3>Lighthouse at Golden Hour</h3><p>Lined journal, 120 pages</p><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP3DTJPF" target="_blank" rel="noopener">Paperback on Amazon</a><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP42GMTX" target="_blank" rel="noopener">Hardcover on Amazon</a></div></div>
+      <div class="bkcard"><a href="https://www.amazon.com.au/dp/B0HP3JG27F" target="_blank" rel="noopener"><img src="images/kdp/reef-from-above.jpg" alt="Reef from Above cover" loading="lazy" width="360" height="556"></a><div class="bkbody"><h3>Reef from Above</h3><p>Lined journal, 120 pages</p><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP3JG27F" target="_blank" rel="noopener">Paperback on Amazon</a><a class="bkbuy" href="https://www.amazon.com.au/dp/B0HP49RYYK" target="_blank" rel="noopener">Hardcover on Amazon</a></div></div>
+    </div>
     <div class="stocklist">
       <span>Travel gear &amp; gifts — <a href="https://www.cutpricegadgets.com/collections/gravel-and-gum">Cut Price Gadgets</a></span>
+      <span>Notebooks — <a href="#notebooks">on Amazon</a></span>
       <span>Wall art — <a href="#wall-art">prints above</a>; other sizes, ask us at <a href="mailto:hello@gravelandgum.com">hello@gravelandgum.com</a></span>
     </div>
   </div>
