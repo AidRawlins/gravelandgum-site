@@ -41,6 +41,10 @@ header.site{padding:32px 0 26px;border-bottom:1px solid rgba(243,239,230,.16)}
   letter-spacing:.055em;color:var(--bone);white-space:nowrap}
 .wm-text .amp{color:var(--dirt);padding:0 .12em}
 .tagline{margin-top:18px;color:rgba(243,239,230,.82);font-size:17px;max-width:56ch}
+/* sketched gum leaf with gravel track, beside the tagline (Aid, 4 Nov 2026) */
+header.site .wrap{position:relative}
+.hdr-leaf{position:absolute;left:478px;bottom:2px;width:240px;height:auto;pointer-events:none}
+@media(max-width:720px){.hdr-leaf{display:none}}
 
 /* hero */
 .hero{padding:0;border-bottom:1px solid rgba(243,239,230,.14)}
@@ -152,7 +156,8 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
       <span class="badge"><img src="images/gg-badge-logo.png" alt="Gravel and Gum badge — a gum leaf and a gravel track in a green circle"></span>
       <span class="wm-text">GRAVEL<span class="amp">&amp;</span>GUM</span>
     </div>
-    <p class="tagline">Images from around the world by an Australian photographer, printing in, and posting from, Australia.</p>
+    <p class="tagline">Images from around the world by an Australian photographer.</p>
+    <img class="hdr-leaf" src="images/gg-leaf-bone.png" alt="" aria-hidden="true" width="240" height="127">
   </div>
 </header>
 
