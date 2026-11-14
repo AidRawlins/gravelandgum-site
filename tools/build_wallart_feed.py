@@ -54,6 +54,11 @@ def main():
                 "handle": p["handle"],
                 "title": p["title"],
                 "caption": caption(p.get("body_html")),
+                # newest-first order, G&G's gg-feature-1..9 order tags and gg-opener (HO-GG-IT-028)
+                "published": p.get("published_at") or p.get("created_at") or "",
+                "rank": min([int(t[len("gg-feature-"):]) for t in tags
+                             if re.fullmatch(r"gg-feature-[1-9]", t)] or [0]) or None,
+                "opener": "gg-opener" in tags,
                 "optionNames": [o["name"] for o in p.get("options", [])],
                 "images": [i["src"] for i in p.get("images", [])][:6],
                 "variants": [{
