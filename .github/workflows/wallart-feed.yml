@@ -1,0 +1,33 @@
+name: Wall art feed
+# Rebuilds wallart-feed.json from the store's public product feed so new
+# Gravel & Gum canvases (tag gg-site-only) appear on the Wall art section
+# without an IT edit. IT, 14 Nov 2026, HO-GG-IT-022.
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: wallart-feed
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build feed
+        run: python3 tools/build_wallart_feed.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- wallart-feed.json && git ls-files --error-unmatch wallart-feed.json >/dev/null 2>&1; then
+            echo "No change"; exit 0; fi
+          git config user.name "wallart-feed bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add wallart-feed.json
+          git commit -m "Wall art feed refresh"
+          git push
