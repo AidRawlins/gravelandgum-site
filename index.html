@@ -110,6 +110,8 @@ figcaption{padding:11px 13px 13px;font-size:14px;color:rgba(243,239,230,.75)}
 .wbody h3{font-size:22px;margin:4px 0 2px}
 .wfrom{margin:0 0 6px;color:var(--dirt);font-weight:600}
 .wcap{margin:0 0 14px;color:rgba(243,239,230,.8);font-size:15.5px}
+.wshown{margin:8px 14px 0;color:rgba(243,239,230,.65);font-size:13.5px}
+.wnote{margin:8px 0 0;color:rgba(243,239,230,.65);font-size:13.5px}
 .wpick{display:flex;flex-wrap:wrap;gap:10px;align-items:flex-end}
 .wpick label{display:flex;flex-direction:column;font-size:13px;color:rgba(243,239,230,.7);gap:4px}
 .wpick select{font:inherit;font-size:15px;padding:7px 8px;border-radius:3px;border:1px solid rgba(243,239,230,.3);background:var(--gum-deep);color:var(--bone);max-width:100%}
@@ -876,27 +878,49 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
       box.querySelector('.wnext').onclick=()=>{idx=(idx+1)%cur.images.length; show();};
       box.addEventListener('click',e=>{ if(e.target===box) box.close(); });
       document.addEventListener('keydown',e=>{ if(!box.open) return; if(e.key==='ArrowRight') box.querySelector('.wnext').click(); if(e.key==='ArrowLeft') box.querySelector('.wprev').click(); });
+      const SIZES={'12x18':'30 × 45 cm','16x24':'40 × 60 cm','20x30':'51 × 76 cm','24x36':'61 × 91 cm','12x16':'30 × 40 cm','18x24':'45 × 60 cm','24x32':'61 × 81 cm','8x10':'20 × 25 cm','11x14':'28 × 36 cm','16x20':'40 × 50 cm','8x12':'20 × 30 cm'};
+      function cmFromInches(a,b){ return SIZES[a+'x'+b]||Math.round(a*2.54)+' × '+Math.round(b*2.54)+' cm'; }
+      const lc=t=>/^XL/.test(t)?t:t.charAt(0).toLowerCase()+t.slice(1);
+      const tok=u=>{ const m=(u||'').match(/-(\d+)x(\d+)-/); return m?m[1]+'x'+m[2]:null; };
+      const base=u=>(u||'').split('?')[0];
+      /* Pictures for one size: the size's own Shopify picture first, then other pictures of
+         that same size only (never another size's or another frame colour's picture). */
+      function picsFor(p,v,o){
+        if(p.variants.length===1) return {pics:p.images.slice(0,4), shown:o.size+' '+lc(o.type)};
+        if(v.image){
+          const t=tok(v.image), others=new Set(p.variants.filter(x=>x.id!==v.id&&x.image).map(x=>base(x.image)));
+          const rest=t?p.images.filter(u=>base(u)!==base(v.image)&&tok(u)===t&&!others.has(base(u))):[];
+          return {pics:[v.image].concat(rest).slice(0,4), shown:o.size+' '+lc(o.type)};
+        }
+        const first=p.images[0]; if(!first) return null;
+        const t=tok(first); return {pics:[first], shown:t?cmFromInches(t.split('x')[0],t.split('x')[1])+' '+lc(o.type):''};
+      }
       function setup(card,w){
-        const mainImg=card.querySelector('.wmain img'), th=card.querySelector('.wthumbs'); let sel=0;
-        th.innerHTML=w.images.length>1?w.images.map((u,i)=>'<button type="button" class="wthumb" data-i="'+i+'" aria-label="View picture '+(i+1)+' of '+w.images.length+'"><img src="'+esc(sz(u,200))+'" alt="" loading="lazy"></button>').join(''):'';
-        mainImg.src=sz(w.images[0],1400);
-        card.querySelector('.wmain').onclick=()=>open(w,sel);
-        th.querySelectorAll('.wthumb').forEach(t=>t.onclick=()=>{ sel=+t.dataset.i; mainImg.src=sz(w.images[sel],1400); th.querySelectorAll('.wthumb').forEach(x=>x.classList.toggle('on',x===t)); });
-        const first=th.querySelector('.wthumb'); if(first) first.classList.add('on');
+        const mainImg=card.querySelector('.wmain img'), th=card.querySelector('.wthumbs'); let sel=0, cur2=w;
+        let shown=card.querySelector('.wshown'); if(!shown){ shown=document.createElement('p'); shown.className='wshown'; card.querySelector('.wmain').after(shown); }
+        let note=card.querySelector('.wnote'); if(!note){ note=document.createElement('p'); note.className='wnote'; note.textContent='The photo wraps round the edges, so each size shows its own picture.'; card.querySelector('.wpick').after(note); }
+        function pics(o){ return (o&&o.pics&&o.pics.length)?o.pics:w.images.slice(0,1); }
+        function paint(o){
+          const list=pics(o); cur2={name:w.name,images:list}; sel=0;
+          mainImg.src=sz(list[0],1400);
+          th.innerHTML=list.length>1?list.map((u,i)=>'<button type="button" class="wthumb'+(i?'':' on')+'" data-i="'+i+'" aria-label="View picture '+(i+1)+' of '+list.length+'"><img src="'+esc(sz(u,200))+'" alt="" loading="lazy"></button>').join(''):'';
+          th.querySelectorAll('.wthumb').forEach(t=>t.onclick=()=>{ sel=+t.dataset.i; mainImg.src=sz(list[sel],1400); th.querySelectorAll('.wthumb').forEach(x=>x.classList.toggle('on',x===t)); });
+          shown.textContent=(o&&o.shown)?'Shown: '+o.shown:''; shown.hidden=!(o&&o.shown);
+          note.hidden=!(o&&/canvas/i.test(o.type)&&o.shown);
+        }
+        card.querySelector('.wmain').onclick=()=>open(cur2,sel);
         card.querySelector('.wfrom').textContent='From $'+Math.min.apply(null,w.options.map(o=>o.price)).toFixed(2);
         const ts=card.querySelector('.wtype'), ss=card.querySelector('.wsize'), buy=card.querySelector('.wbuy');
         const types=[...new Set(w.options.map(o=>o.type))];
         ts.innerHTML=types.map(t=>'<option>'+esc(t)+'</option>').join('');
         function sizes(){ const list=w.options.filter(o=>o.type===ts.value); ss.innerHTML=list.map(o=>'<option value="'+o.variant+'">'+esc(o.size)+' — $'+o.price.toFixed(2)+'</option>').join(''); link(); }
-        function link(){ const o=w.options.find(o=>o.variant===ss.value); buy.href=CART+o.variant+':1'; buy.textContent='Buy '+o.size+', $'+o.price.toFixed(2); }
+        function link(){ const o=w.options.find(o=>o.variant===ss.value); buy.href=CART+o.variant+':1'; buy.textContent='Buy '+o.size+', $'+o.price.toFixed(2); paint(o); }
         ts.onchange=sizes; ss.onchange=link; sizes();
         card.querySelector('.wpick').hidden=false;
       }
       const cards=[];
       document.querySelectorAll('.wcard').forEach(card=>{ const w=WALLART[card.dataset.print]; if(!w) return; cards.push({card,w}); setup(card,w); });
       /* ---- live refresh from wallart-feed.json ---- */
-      const SIZES={'12x18':'30 × 45 cm','16x24':'40 × 60 cm','20x30':'51 × 76 cm','24x36':'61 × 91 cm','12x16':'30 × 40 cm','18x24':'45 × 60 cm','24x32':'61 × 81 cm','8x10':'20 × 25 cm','11x14':'28 × 36 cm','16x20':'40 × 50 cm','8x12':'20 × 30 cm'};
-      function cmFromInches(a,b){ return SIZES[a+'x'+b]||Math.round(a*2.54)+' × '+Math.round(b*2.54)+' cm'; }
       function sizeOf(p,v){
         const t=v.options.join(' / '), c=t.match(/(\d+)\s*[x×]\s*(\d+)\s*cm/i); if(c) return c[1]+' × '+c[2]+' cm';
         const m=t.match(/(\d+)\s*[″"]?\s*[x×]\s*(\d+)\s*[″"]/); if(m) return cmFromInches(m[1],m[2]);
@@ -917,7 +941,7 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
         const known=new Set();
         cards.forEach(({card,w})=>{
           const opts=[]; let pic=null;
-          w.options.forEach(o=>{ const hit=vmap[o.variant]; if(!hit) return; known.add(hit.p.id); if(!hit.v.available) return; if(!pic) pic=hit.p; opts.push(Object.assign({},o,{price:hit.v.price})); });
+          w.options.forEach(o=>{ const hit=vmap[o.variant]; if(!hit) return; known.add(hit.p.id); if(!hit.v.available) return; if(!pic) pic=hit.p; const n=Object.assign({},o,{price:hit.v.price}); const pp=picsFor(hit.p,hit.v,n); if(pp){ n.pics=pp.pics; n.shown=pp.shown; } opts.push(n); });
           if(!opts.length){ card.hidden=true; return; }
           w.options=opts; if(pic&&pic.images.length) w.images=pic.images.slice(0,4);
           setup(card,w);
@@ -925,7 +949,7 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
         const groups={}, order=[];
         feed.products.forEach(p=>{ if(known.has(p.id)) return; const k=nameOf(p).toLowerCase(); if(!groups[k]){ groups[k]={name:nameOf(p),images:[],options:[],caption:''}; order.push(k); } const g=groups[k];
           if(!g.images.length&&p.images.length){ g.images=p.images.slice(0,4); g.caption=p.caption; }
-          p.variants.forEach(v=>{ if(v.available) g.options.push({type:typeOf(p,v),size:sizeOf(p,v),price:v.price,variant:v.id}); }); });
+          p.variants.forEach(v=>{ if(!v.available) return; const o={type:typeOf(p,v),size:sizeOf(p,v),price:v.price,variant:v.id}; const pp=picsFor(p,v,o); if(pp){ o.pics=pp.pics; o.shown=pp.shown; } g.options.push(o); }); });
         const grid=document.querySelector('.wallgrid'), firstCard=grid.querySelector('.wcard');
         order.forEach(k=>{ const g=groups[k]; if(!g.options.length||!g.images.length) return;
           const a=document.createElement('article'); a.className='wcard';

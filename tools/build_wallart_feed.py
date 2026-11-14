@@ -46,7 +46,8 @@ def main():
         if not products:
             break
         for p in products:
-            if TAG not in p.get("tags", []):
+            tags = p.get("tags", [])
+            if TAG not in tags or "cpg-studio" in tags:  # studio line never on gravelandgum.com (55A)
                 continue
             found.append({
                 "id": str(p["id"]),
@@ -60,6 +61,7 @@ def main():
                     "options": [x for x in (v.get("option1"), v.get("option2"), v.get("option3")) if x],
                     "price": float(v["price"]),
                     "available": bool(v.get("available")),
+                    "image": (v.get("featured_image") or {}).get("src"),
                 } for v in p.get("variants", [])],
             })
         time.sleep(2)
