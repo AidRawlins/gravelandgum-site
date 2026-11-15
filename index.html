@@ -865,6 +865,9 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
          selected; the caption gives the opener's true size (HO-GG-IT-028). */
       const short=t=>String(t).replace(/\s*cm$/,'');
       const money=n=>'$'+n.toFixed(2);
+      /* Cards open on the largest size (by area), HO-GG-IT-030. */
+      const area=o=>{ const m=String(o.size).match(/(\d+)\s*×\s*(\d+)/); return m?(+m[1])*(+m[2]):0; };
+      const biggest=list=>list.reduce((a,b)=>(area(b)>area(a)||(area(b)===area(a)&&b.price>a.price))?b:a);
       function setup(card,w){
         const mainImg=card.querySelector('.wmain img'), th=card.querySelector('.wthumbs');
         let shown=card.querySelector('.wshown'); if(!shown){ shown=document.createElement('p'); shown.className='wshown'; card.querySelector('.wmain').after(shown); }
@@ -901,12 +904,12 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
         }
         card.querySelector('.wmain').onclick=()=>open(lb,lbi);
         ts.innerHTML=types.map(t=>'<option>'+esc(t)+'</option>').join('');
-        ts.onchange=()=>{ fillSizes(); drawThumbs(); choose(opts.find(o=>o.type===ts.value),null,true); };
+        ts.onchange=()=>{ fillSizes(); drawThumbs(); choose(biggest(opts.filter(o=>o.type===ts.value)),null,true); };
         ss.onchange=()=>choose(opts.find(o=>o.variant===ss.value),null,true);
-        ts.value=opts[0].type; fillSizes(); drawThumbs(); choose(opts[0]);
+        const start=biggest(opts); ts.value=start.type; fillSizes(); drawThumbs(); choose(start);
         from.textContent=(opts.length>1?'From ':'')+money(opts[0].price);
         if(w.opener&&w.opener.src){
-          const i=thumbs.findIndex(t=>base(t.src)===base(w.opener.src)&&t.o===opts[0]);
+          const i=thumbs.findIndex(t=>base(t.src)===base(w.opener.src)&&t.o===start);
           showPic(w.opener.src,w.opener.shown||'');
           mark(i);
           lb={name:w.name,images:[w.opener.src].concat(thumbs.map(t=>t.src).filter(u=>base(u)!==base(w.opener.src)))}; lbi=0;
@@ -932,12 +935,11 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
       }
       const nameOf=p=>p.title.replace(/\s*-\s*Gravel\s*&\s*Gum\s*$/i,'').replace(/\s+(XL\s+)?(Canvas|Framed|Art)(\s+Print)?$/i,'').trim();
       const when=d=>{ const t=Date.parse(d||''); return isNaN(t)?0:t; };
-      /* Opener: first picture of the group's product tagged gg-opener, else of the product
-         holding the cheapest size. Its caption is that picture's own size, or nothing. */
+      /* Opener: only when G&G tags a product gg-opener (e.g. a room shot), the card opens on that
+         product's first picture, captioned with its own size. Otherwise the largest size opens. */
       function opener(w,prods){
         if(!prods.length) return null;
-        const cheap=w.options.slice().sort((a,b)=>a.price-b.price)[0];
-        const p=prods.find(x=>x.opener)||prods.find(x=>x.variants.some(v=>v.id===cheap.variant))||prods[0];
+        const p=prods.find(x=>x.opener); if(!p) return null;
         const src=p.images[0]; if(!src) return null;
         const mine=w.options.filter(o=>p.variants.some(v=>v.id===o.variant));
         let cap='';
@@ -958,12 +960,18 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
           w.opener=opener(w,prods);
           setup(card,w); live.push({card,w,prods});
         });
-        const groups={}, order=[];
-        feed.products.forEach(p=>{ if(known.has(p.id)) return; const k=nameOf(p).toLowerCase(); if(!groups[k]){ groups[k]={name:nameOf(p),images:[],options:[],caption:'',prods:[]}; order.push(k); } const g=groups[k];
+        const groups={}, order=[], byName={}, touched=new Set();
+        live.forEach(x=>{ byName[x.w.name.toLowerCase()]=x; });
+        feed.products.forEach(p=>{ if(known.has(p.id)) return; const k=nameOf(p).toLowerCase();
+          /* a new product with the same name as a hand-made card joins that card (e.g. a new art print size) */
+          const ex=byName[k];
+          if(ex){ let any=false; p.variants.forEach(v=>{ if(!v.available) return; any=true; const o={type:typeOf(p,v),size:sizeOf(p,v),price:v.price,variant:v.id}; const pp=picsFor(p,v,o); if(pp){ o.pics=pp.pics; o.shown=pp.shown; } ex.w.options.push(o); }); if(any){ ex.prods.push(p); touched.add(ex); } return; }
+          if(!groups[k]){ groups[k]={name:nameOf(p),images:[],options:[],caption:'',prods:[]}; order.push(k); } const g=groups[k];
           if(!g.images.length&&p.images.length){ g.images=p.images.slice(0,4); g.caption=p.caption; }
           let any=false;
           p.variants.forEach(v=>{ if(!v.available) return; any=true; const o={type:typeOf(p,v),size:sizeOf(p,v),price:v.price,variant:v.id}; const pp=picsFor(p,v,o); if(pp){ o.pics=pp.pics; o.shown=pp.shown; } g.options.push(o); });
           if(any) g.prods.push(p); });
+        touched.forEach(x=>{ x.w.opener=opener(x.w,x.prods); setup(x.card,x.w); });
         const grid=document.querySelector('.wallgrid');
         order.forEach(k=>{ const g=groups[k]; if(!g.options.length||!g.images.length) return;
           const a=document.createElement('article'); a.className='wcard'; a.id=slug(g.name);
