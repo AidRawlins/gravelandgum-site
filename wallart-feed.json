@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T01:59:32Z",
+ "generated": "2026-11-15T09:36:42Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -187,11 +187,9 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x32-front-6aea56c6e3909.jpg?v=1793742540",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-person-6ae867a42d9da.jpg?v=1793615795",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-person-6ae867a42e1e0.jpg?v=1793615794",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-front-6ae867a42e637.jpg?v=1793615794",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-front-6ae867a42ea24.jpg?v=1793615795"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-front-6af9759a348c8.jpg?v=1794733470",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-front-6af9759a34935.jpg?v=1794733470",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x32-front-6af9759a3428a.jpg?v=1794733470"
    ],
    "variants": [
     {
@@ -201,7 +199,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-person-6ae867a42d9da.jpg?v=1793615795"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-front-6af9759a348c8.jpg?v=1794733470"
     },
     {
      "id": "68095879774496",
@@ -210,7 +208,7 @@
      ],
      "price": 119.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-person-6ae867a42e1e0.jpg?v=1793615794"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-front-6af9759a34935.jpg?v=1794733470"
     },
     {
      "id": "68126237753632",
@@ -219,7 +217,7 @@
      ],
      "price": 149.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x32-front-6aea56c6e3909.jpg?v=1793742540"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x32-front-6af9759a3428a.jpg?v=1794733470"
     }
    ]
   },
@@ -285,6 +283,68 @@
    ]
   },
   {
+   "id": "15617256194336",
+   "handle": "fishing-boats-at-night-fremantle-canvas-print-gravel-gum",
+   "title": "Fishing Boats at Night, Fremantle Canvas Print - Gravel & Gum",
+   "caption": "Fishing boats at rest under the lights, Fremantle, Western Australia.",
+   "published": "2026-11-15T17:22:04+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af94e7feed31.jpg?v=1794723466"
+   ],
+   "variants": [
+    {
+     "id": "68330066379040",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af94e7feed31.jpg?v=1794723466"
+    }
+   ]
+  },
+  {
+   "id": "15617709015328",
+   "handle": "kookaburra-among-the-palms-canvas-print-gravel-gum",
+   "title": "Kookaburra Among the Palms Canvas Print - Gravel & Gum",
+   "caption": "A kookaburra pauses among the palms, head turned and eye on the camera.",
+   "published": "2026-11-15T20:10:48+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af976fab6f7f.jpg?v=1794733832",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af976fab731d.jpg?v=1794733832"
+   ],
+   "variants": [
+    {
+     "id": "68330758865184",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af976fab6f7f.jpg?v=1794733832"
+    },
+    {
+     "id": "68330758897952",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af976fab731d.jpg?v=1794733832"
+    }
+   ]
+  },
+  {
    "id": "15577572409632",
    "handle": "lennox-point-surf-canvas-print-gravel-gum",
    "title": "Lennox Point Surf Canvas Print - Gravel & Gum",
@@ -296,8 +356,10 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aee5c476f1a0.jpg?v=1794006098",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-person-6aee5c476d862.jpg?v=1794006098"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af957513ea68.jpg?v=1794725716",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af957513eaa8.jpg?v=1794725717",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af957513e46a.jpg?v=1794725716",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af957513eafb.jpg?v=1794725716"
    ],
    "variants": [
     {
@@ -307,7 +369,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": null
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af957513ea68.jpg?v=1794725716"
     },
     {
      "id": "68163489956128",
@@ -316,7 +378,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aee5c476f1a0.jpg?v=1794006098"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af957513eaa8.jpg?v=1794725717"
     },
     {
      "id": "68163489988896",
@@ -325,7 +387,7 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": null
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af957513e46a.jpg?v=1794725716"
     },
     {
      "id": "68163490021664",
@@ -334,7 +396,7 @@
      ],
      "price": 159.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-person-6aee5c476d862.jpg?v=1794006098"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af957513eafb.jpg?v=1794725716"
     }
    ]
   },
@@ -350,9 +412,9 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aec5b8a57b65.jpg?v=1793874838",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aec5b8a587e5.jpg?v=1793874838",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6aec5b8a58834.jpg?v=1793874838"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af94f41e5c7d.jpg?v=1794723653",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af94f41e698d.jpg?v=1794723653",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af94f41e69ed.jpg?v=1794723653"
    ],
    "variants": [
     {
@@ -362,7 +424,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aec5b8a57b65.jpg?v=1793874838"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af94f41e5c7d.jpg?v=1794723653"
     },
     {
      "id": "68146748260640",
@@ -371,7 +433,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aec5b8a587e5.jpg?v=1793874838"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af94f41e698d.jpg?v=1794723653"
     },
     {
      "id": "68146748293408",
@@ -380,7 +442,43 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6aec5b8a58834.jpg?v=1793874838"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af94f41e69ed.jpg?v=1794723653"
+    }
+   ]
+  },
+  {
+   "id": "15617594818848",
+   "handle": "magpie-face-art-print-gravel-gum",
+   "title": "Magpie Face Art Print - Gravel & Gum",
+   "caption": "A magpie stares straight down the lens, eye to eye and full of attitude.",
+   "published": "2026-11-15T19:43:55+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-front-6af9709e7e367.jpg?v=1794732201",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-front-6af9709e7f0ce.jpg?v=1794732201"
+   ],
+   "variants": [
+    {
+     "id": "68330587062560",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-front-6af9709e7e367.jpg?v=1794732201"
+    },
+    {
+     "id": "68330587095328",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-front-6af9709e7f0ce.jpg?v=1794732201"
     }
    ]
   },
@@ -396,7 +494,7 @@
     "Title"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aed70c77aba0.jpg?v=1793945813"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af956b9455c5.jpg?v=1794725564"
    ],
    "variants": [
     {
@@ -406,7 +504,187 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aed70c77aba0.jpg?v=1793945813"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af956b9455c5.jpg?v=1794725564"
+    }
+   ]
+  },
+  {
+   "id": "15617595015456",
+   "handle": "magpie-feeding-its-chick-art-print-gravel-gum",
+   "title": "Magpie Feeding Its Chick Art Print - Gravel & Gum",
+   "caption": "A magpie leans down to feed its hungry chick, beak to beak.",
+   "published": "2026-11-15T19:49:20+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-front-6af9717785296.jpg?v=1794732418",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-front-6af971778608e.jpg?v=1794732418"
+   ],
+   "variants": [
+    {
+     "id": "68330587586848",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-front-6af9717785296.jpg?v=1794732418"
+    },
+    {
+     "id": "68330587619616",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-front-6af971778608e.jpg?v=1794732418"
+    }
+   ]
+  },
+  {
+   "id": "15617398604064",
+   "handle": "magpie-feeding-its-chick-canvas-print-gravel-gum",
+   "title": "Magpie Feeding Its Chick Canvas Print - Gravel & Gum",
+   "caption": "A magpie leans down to feed its hungry chick, beak to beak.",
+   "published": "2026-11-15T18:09:57+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af95aa43bed9.jpg?v=1794726574"
+   ],
+   "variants": [
+    {
+     "id": "68330239426848",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af95aa43bed9.jpg?v=1794726574"
+    }
+   ]
+  },
+  {
+   "id": "15617595113760",
+   "handle": "magpie-fledgling-looking-up-art-print-gravel-gum",
+   "title": "Magpie Fledgling Looking Up Art Print - Gravel & Gum",
+   "caption": "A young magpie, still in its soft brown feathers, looks up from the back of a chair.",
+   "published": "2026-11-15T19:49:44+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-front-6af971f714de1.jpg?v=1794732545",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-front-6af971f7152be.jpg?v=1794732545"
+   ],
+   "variants": [
+    {
+     "id": "68330588471584",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-front-6af971f714de1.jpg?v=1794732545"
+    },
+    {
+     "id": "68330588504352",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-front-6af971f7152be.jpg?v=1794732545"
+    }
+   ]
+  },
+  {
+   "id": "15617399914784",
+   "handle": "magpie-fledgling-looking-up-canvas-print-gravel-gum",
+   "title": "Magpie Fledgling Looking Up Canvas Print - Gravel & Gum",
+   "caption": "A young magpie, still in its soft brown feathers, looks up from the back of a chair.",
+   "published": "2026-11-15T18:13:40+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af95b8279c8c.jpg?v=1794726797"
+   ],
+   "variants": [
+    {
+     "id": "68330247094560",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af95b8279c8c.jpg?v=1794726797"
+    }
+   ]
+  },
+  {
+   "id": "15617347584288",
+   "handle": "magpie-perched-on-a-chair-canvas-print-gravel-gum",
+   "title": "Magpie Perched on a Chair Canvas Print - Gravel & Gum",
+   "caption": "A magpie perched on the back of a chair, glossy black and white and keeping an eye on things.",
+   "published": "2026-11-15T18:05:56+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9599c33b8e.jpg?v=1794726309",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9599c33bbe.jpg?v=1794726309",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9599c33624.jpg?v=1794726309",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9599c33c0a.jpg?v=1794726309"
+   ],
+   "variants": [
+    {
+     "id": "68330181034272",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9599c33b8e.jpg?v=1794726309"
+    },
+    {
+     "id": "68330181067040",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9599c33bbe.jpg?v=1794726309"
+    },
+    {
+     "id": "68330181099808",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9599c33624.jpg?v=1794726309"
+    },
+    {
+     "id": "68330181132576",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9599c33c0a.jpg?v=1794726309"
     }
    ]
   },
@@ -422,10 +700,10 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5d1fc6498.jpg?v=1793875242",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5d1fc67aa.jpg?v=1793875242",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5d1fc67dc.jpg?v=1793875243",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5d1fc6817.jpg?v=1793875242"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9560c72354.jpg?v=1794725392",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9560c72399.jpg?v=1794725392",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9560c713fd.jpg?v=1794725392",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9560c723ec.jpg?v=1794725392"
    ],
    "variants": [
     {
@@ -435,7 +713,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5d1fc67aa.jpg?v=1793875242"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9560c72354.jpg?v=1794725392"
     },
     {
      "id": "68146771099936",
@@ -444,7 +722,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5d1fc67dc.jpg?v=1793875243"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9560c72399.jpg?v=1794725392"
     },
     {
      "id": "68146771132704",
@@ -453,7 +731,7 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5d1fc6817.jpg?v=1793875242"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9560c713fd.jpg?v=1794725392"
     },
     {
      "id": "68146771165472",
@@ -462,7 +740,7 @@
      ],
      "price": 159.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5d1fc6498.jpg?v=1793875242"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9560c723ec.jpg?v=1794725392"
     }
    ]
   },
@@ -566,10 +844,10 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5c3aecad0.jpg?v=1793875015",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5c3aed12c.jpg?v=1793875015",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5c3aed15f.jpg?v=1793875015",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5c3aed19c.jpg?v=1793875015"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af955be8bf15.jpg?v=1794725314",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af955be8bf48.jpg?v=1794725314",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af955be8bb38.jpg?v=1794725314",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af955be8bf9f.jpg?v=1794725314"
    ],
    "variants": [
     {
@@ -579,7 +857,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5c3aed12c.jpg?v=1793875015"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af955be8bf15.jpg?v=1794725314"
     },
     {
      "id": "68146755109152",
@@ -588,7 +866,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5c3aed15f.jpg?v=1793875015"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af955be8bf48.jpg?v=1794725314"
     },
     {
      "id": "68146755141920",
@@ -597,7 +875,7 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5c3aed19c.jpg?v=1793875015"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af955be8bb38.jpg?v=1794725314"
     },
     {
      "id": "68146755174688",
@@ -606,7 +884,7 @@
      ],
      "price": 159.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5c3aecad0.jpg?v=1793875015"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af955be8bf9f.jpg?v=1794725314"
     }
    ]
   },
@@ -704,10 +982,10 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5a26a8343.jpg?v=1793874484",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5a26a8802.jpg?v=1793874485",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5a26a8840.jpg?v=1793874485",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5a26a8881.jpg?v=1793874485"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9553d96e22.jpg?v=1794725185",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9553d96e52.jpg?v=1794725185",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9553d96adb.jpg?v=1794725185",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9553d96e92.jpg?v=1794725185"
    ],
    "variants": [
     {
@@ -717,7 +995,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5a26a8802.jpg?v=1793874485"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9553d96e22.jpg?v=1794725185"
     },
     {
      "id": "68146725814560",
@@ -726,7 +1004,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5a26a8840.jpg?v=1793874485"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9553d96e52.jpg?v=1794725185"
     },
     {
      "id": "68146725847328",
@@ -735,7 +1013,7 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5a26a8881.jpg?v=1793874485"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9553d96adb.jpg?v=1794725185"
     },
     {
      "id": "68146725880096",
@@ -744,7 +1022,7 @@
      ],
      "price": 159.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5a26a8343.jpg?v=1793874484"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9553d96e92.jpg?v=1794725185"
     }
    ]
   },
@@ -760,7 +1038,9 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aeeb29d41cd0.jpg?v=1794028199"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af957e2caf93.jpg?v=1794725862",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af957e2cbe4d.jpg?v=1794725862",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af957e2cbecd.jpg?v=1794725862"
    ],
    "variants": [
     {
@@ -770,7 +1050,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": null
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af957e2caf93.jpg?v=1794725862"
     },
     {
      "id": "68168083079456",
@@ -779,7 +1059,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aeeb29d41cd0.jpg?v=1794028199"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af957e2cbe4d.jpg?v=1794725862"
     },
     {
      "id": "68168083112224",
@@ -788,7 +1068,7 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": null
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af957e2cbecd.jpg?v=1794725862"
     }
    ]
   },
@@ -1030,10 +1310,10 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5db14d12d.jpg?v=1793875389",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5db14d877.jpg?v=1793875389",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5db14d8e7.jpg?v=1793875389",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5db14d94c.jpg?v=1793875389"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9565e2d5e2.jpg?v=1794725474",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9565e2d62b.jpg?v=1794725474",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9565e2c89e.jpg?v=1794725474",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9565e2d66b.jpg?v=1794725474"
    ],
    "variants": [
     {
@@ -1043,7 +1323,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6aec5db14d877.jpg?v=1793875389"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af9565e2d5e2.jpg?v=1794725474"
     },
     {
      "id": "68146777882912",
@@ -1052,7 +1332,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6aec5db14d8e7.jpg?v=1793875389"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af9565e2d62b.jpg?v=1794725474"
     },
     {
      "id": "68146777915680",
@@ -1061,7 +1341,7 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aec5db14d94c.jpg?v=1793875389"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af9565e2c89e.jpg?v=1794725474"
     },
     {
      "id": "68146777948448",
@@ -1070,7 +1350,7 @@
      ],
      "price": 159.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aec5db14d12d.jpg?v=1793875389"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9565e2d66b.jpg?v=1794725474"
     }
    ]
   }
