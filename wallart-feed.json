@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T21:47:46Z",
+ "generated": "2026-11-15T01:59:32Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -187,11 +187,11 @@
     "Size"
    ],
    "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x32-front-6aea56c6e3909.jpg?v=1793742540",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-person-6ae867a42d9da.jpg?v=1793615795",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-person-6ae867a42e1e0.jpg?v=1793615794",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x16-front-6ae867a42e637.jpg?v=1793615794",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-front-6ae867a42ea24.jpg?v=1793615795",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x32-front-6aea56c6e3909.jpg?v=1793742540"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-18x24-front-6ae867a42ea24.jpg?v=1793615795"
    ],
    "variants": [
     {
@@ -478,12 +478,12 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6ae5763fd9ea7.jpg?v=1793422931",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6ae5763fdaafc.jpg?v=1793422931",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6ae5763fdae67.jpg?v=1793422931",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6ae5763fda718.jpg?v=1793422932",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aea556c8814f.jpg?v=1793742201",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aea556c87676.jpg?v=1793742201",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aea556c8814f.jpg?v=1793742201"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6ae5763fd9ea7.jpg?v=1793422931",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6ae5763fda718.jpg?v=1793422932"
    ],
    "variants": [
     {
@@ -493,7 +493,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6ae5763fd9ea7.jpg?v=1793422931"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6ae5763fdaafc.jpg?v=1793422931"
     },
     {
      "id": "68071634632992",
@@ -850,9 +850,9 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af80ed44430f.jpg?v=1794641629",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af80ed444b91.jpg?v=1794641629",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af80ed444bcb.jpg?v=1794641629",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af80ed44430f.jpg?v=1794641629",
     "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af80ed444c17.jpg?v=1794641629"
    ],
    "variants": [
