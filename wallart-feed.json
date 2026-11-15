@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T09:36:42Z",
+ "generated": "2026-11-15T17:16:26Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -756,12 +756,10 @@
     "Size"
    ],
    "images": [
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6ae5763fdaafc.jpg?v=1793422931",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6ae5763fdae67.jpg?v=1793422931",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aea556c8814f.jpg?v=1793742201",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aea556c87676.jpg?v=1793742201",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6ae5763fd9ea7.jpg?v=1793422931",
-    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6ae5763fda718.jpg?v=1793422932"
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af996a50cc00.jpg?v=1794741928",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af996a50cc31.jpg?v=1794741929",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af996a50cc62.jpg?v=1794741928",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af996a50c82e.jpg?v=1794741928"
    ],
    "variants": [
     {
@@ -771,7 +769,7 @@
      ],
      "price": 79.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6ae5763fdaafc.jpg?v=1793422931"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af996a50cc00.jpg?v=1794741928"
     },
     {
      "id": "68071634632992",
@@ -780,7 +778,7 @@
      ],
      "price": 109.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6ae5763fdae67.jpg?v=1793422931"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af996a50cc31.jpg?v=1794741929"
     },
     {
      "id": "68126212784416",
@@ -789,7 +787,7 @@
      ],
      "price": 129.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6aea556c8814f.jpg?v=1793742201"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af996a50cc62.jpg?v=1794741928"
     },
     {
      "id": "68126212817184",
@@ -798,7 +796,7 @@
      ],
      "price": 159.95,
      "available": true,
-     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6aea556c87676.jpg?v=1793742201"
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af996a50c82e.jpg?v=1794741928"
     }
    ]
   },
@@ -935,9 +933,61 @@
    ]
   },
   {
+   "id": "15618461827360",
+   "handle": "rainbow-over-the-whitsundays-canvas-print-gravel-gum",
+   "title": "Rainbow over the Whitsundays Canvas Print - Gravel & Gum",
+   "caption": "A full rainbow arcs over the islands and calm water, Whitsundays, Queensland.",
+   "published": "2026-11-15T22:56:56+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af99d2312a6e.jpg?v=1794743595"
+   ],
+   "variants": [
+    {
+     "id": "68331528126752",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af99d2312a6e.jpg?v=1794743595"
+    }
+   ]
+  },
+  {
+   "id": "15618462187808",
+   "handle": "red-anthurium-canvas-print-gravel-gum",
+   "title": "Red Anthurium Canvas Print - Gravel & Gum",
+   "caption": "A glossy red anthurium flower among broad tropical leaves.",
+   "published": "2026-11-15T23:17:23+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af99ec6efb7f.jpg?v=1794744017"
+   ],
+   "variants": [
+    {
+     "id": "68331529306400",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af99ec6efb7f.jpg?v=1794744017"
+    }
+   ]
+  },
+  {
    "id": "15613615931680",
    "handle": "red-bottlebrush-canvas-print-gravel-gum",
-   "title": "Red Bottlebrush Canvas Print - Gravel & Gum",
+   "title": "Red Bottlebrush Bloom Canvas Print - Gravel & Gum",
    "caption": "Vivid red bottlebrush flowers, a favourite Australian native, printed on canvas from an original Gravel & Gum photograph.",
    "published": "2026-11-14T18:29:42+11:00",
    "rank": null,
@@ -1243,6 +1293,52 @@
      "price": 129.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af80f7508b97.jpg?v=1794641791"
+    }
+   ]
+  },
+  {
+   "id": "15618461991200",
+   "handle": "wing-over-the-ocean-canvas-print-gravel-gum",
+   "title": "Wing over the Ocean Canvas Print - Gravel & Gum",
+   "caption": "A plane's wing stretches out over deep blue sky and the clouds far below, over Far North Queensland.",
+   "published": "2026-11-15T22:56:56+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af99ddf198f3.jpg?v=1794743783",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af99ddf19ce3.jpg?v=1794743784",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af99ddf19d40.jpg?v=1794743784"
+   ],
+   "variants": [
+    {
+     "id": "68331528454432",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af99ddf198f3.jpg?v=1794743783"
+    },
+    {
+     "id": "68331528487200",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af99ddf19ce3.jpg?v=1794743784"
+    },
+    {
+     "id": "68331528519968",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af99ddf19d40.jpg?v=1794743784"
     }
    ]
   },
