@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T07:41:54Z",
+ "generated": "2026-11-19T10:29:51Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -92,6 +92,32 @@
    ]
   },
   {
+   "id": "15627314495776",
+   "handle": "beach-catamarans-canvas-print-gravel-gum",
+   "title": "Beach Catamarans Canvas Print - Gravel & Gum",
+   "caption": "Hobie catamarans lined up on the sand, Whitsundays, Queensland.",
+   "published": "2026-11-19T21:19:49+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afecbc0d7898.jpg?v=1795083212"
+   ],
+   "variants": [
+    {
+     "id": "68382942986528",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afecbc0d7898.jpg?v=1795083212"
+    }
+   ]
+  },
+  {
    "id": "15568824828192",
    "handle": "coconut-palm-grove-canvas-print-gravel-gum",
    "title": "Coconut Palm Grove Canvas Print - Gravel & Gum",
@@ -134,6 +160,42 @@
      "price": 129.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6aec5aded314e.jpg?v=1793874677"
+    }
+   ]
+  },
+  {
+   "id": "15626978492704",
+   "handle": "desert-buttes-at-sunset-canvas-print-gravel-gum",
+   "title": "Desert Buttes at Sunset Canvas Print - Gravel & Gum",
+   "caption": "Red sandstone buttes glow in the last light of the day under a long band of cloud, Desert Southwest, USA.",
+   "published": "2026-11-19T16:28:29+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afe8845bb0ba.jpg?v=1795065937",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6afe8845bbda4.jpg?v=1795065937"
+   ],
+   "variants": [
+    {
+     "id": "68380557738272",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afe8845bb0ba.jpg?v=1795065937"
+    },
+    {
+     "id": "68380557771040",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6afe8845bbda4.jpg?v=1795065937"
     }
    ]
   },
@@ -443,6 +505,42 @@
      "price": 129.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af94f41e69ed.jpg?v=1794723653"
+    }
+   ]
+  },
+  {
+   "id": "15626998415648",
+   "handle": "los-angeles-sunset-panorama-canvas-print-gravel-gum",
+   "title": "Los Angeles Sunset Panorama Canvas Print - Gravel & Gum",
+   "caption": "The sun sets over Los Angeles in a wide sweep from the hills to the city lights, Los Angeles, California.",
+   "published": "2026-11-19T16:57:21+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6afe8f7297e3c.jpg?v=1795067776",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6afe8f7298ecd.jpg?v=1795067776"
+   ],
+   "variants": [
+    {
+     "id": "68380643066144",
+     "options": [
+      "12″×36″"
+     ],
+     "price": 169.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6afe8f7297e3c.jpg?v=1795067776"
+    },
+    {
+     "id": "68380643098912",
+     "options": [
+      "16″×48″"
+     ],
+     "price": 199.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6afe8f7298ecd.jpg?v=1795067776"
     }
    ]
   },
@@ -949,6 +1047,62 @@
      "price": 159.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9553d96e92.jpg?v=1794725185"
+    }
+   ]
+  },
+  {
+   "id": "15626986258720",
+   "handle": "surf-rescue-board-canvas-print-gravel-gum",
+   "title": "Surf Rescue Board Canvas Print - Gravel & Gum",
+   "caption": "A yellow surf rescue board rests on the sand beside the red and yellow patrol flags under a clear blue sky, Northern Rivers, NSW.",
+   "published": "2026-11-19T16:37:33+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afe8ae40b9f7.jpg?v=1795066609",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6afe8ae40ba25.jpg?v=1795066609",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6afe8ae40b6ea.jpg?v=1795066608",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6afe8ae40ba77.jpg?v=1795066609"
+   ],
+   "variants": [
+    {
+     "id": "68380584608032",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afe8ae40b9f7.jpg?v=1795066609"
+    },
+    {
+     "id": "68380584640800",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6afe8ae40ba25.jpg?v=1795066609"
+    },
+    {
+     "id": "68380584673568",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6afe8ae40b6ea.jpg?v=1795066608"
+    },
+    {
+     "id": "68380584706336",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6afe8ae40ba77.jpg?v=1795066609"
     }
    ]
   },
