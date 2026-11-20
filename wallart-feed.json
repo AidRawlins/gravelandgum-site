@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T10:29:51Z",
+ "generated": "2026-11-20T03:30:19Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -114,6 +114,42 @@
      "price": 79.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afecbc0d7898.jpg?v=1795083212"
+    }
+   ]
+  },
+  {
+   "id": "15627807129888",
+   "handle": "blue-vehicle-ferries-canvas-print-gravel-gum",
+   "title": "Blue Vehicle Ferries Canvas Print - Gravel & Gum",
+   "caption": "Two bright blue vehicle ferries pulled up side by side at the landing on Moreton Bay, Queensland, photographed by Gravel & Gum.",
+   "published": "2026-11-20T10:17:11+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff8345b97a5.jpg?v=1795130192",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff8345b9b0e.jpg?v=1795130192"
+   ],
+   "variants": [
+    {
+     "id": "68384985284896",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff8345b97a5.jpg?v=1795130192"
+    },
+    {
+     "id": "68384985317664",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff8345b9b0e.jpg?v=1795130192"
     }
    ]
   },
@@ -367,6 +403,114 @@
      "price": 79.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6af94e7feed31.jpg?v=1794723466"
+    }
+   ]
+  },
+  {
+   "id": "15627789238560",
+   "handle": "golden-hour-buttes-canvas-print-gravel-gum",
+   "title": "Golden Hour Buttes Canvas Print - Gravel & Gum",
+   "caption": "Red sandstone buttes glowing at golden hour across a wide desert valley in the Desert Southwest, USA, photographed by Gravel & Gum.",
+   "published": "2026-11-20T09:24:31+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff76e4edbfd.jpg?v=1795127023",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff76e4eeee6.jpg?v=1795127023"
+   ],
+   "variants": [
+    {
+     "id": "68384908345632",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff76e4edbfd.jpg?v=1795127023"
+    },
+    {
+     "id": "68384908378400",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff76e4eeee6.jpg?v=1795127023"
+    }
+   ]
+  },
+  {
+   "id": "15627823218976",
+   "handle": "guardian-lion-canvas-print-gravel-gum",
+   "title": "Guardian Lion Canvas Print - Gravel & Gum",
+   "caption": "A carved stone guardian lion keeps watch beside bright red pillars and green gardens in Sydney, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-20T10:26:24+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff8561e828c.jpg?v=1795130738",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff8561e85a0.jpg?v=1795130738"
+   ],
+   "variants": [
+    {
+     "id": "68385044889888",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff8561e828c.jpg?v=1795130738"
+    },
+    {
+     "id": "68385044922656",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff8561e85a0.jpg?v=1795130738"
+    }
+   ]
+  },
+  {
+   "id": "15627752407328",
+   "handle": "jacaranda-harbour-canvas-print-gravel-gum",
+   "title": "Jacaranda Harbour Canvas Print - Gravel & Gum",
+   "caption": "Purple jacarandas in full bloom above the blue water of Sydney Harbour, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-20T08:55:33+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff701f9c68b.jpg?v=1795125292",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff701f9da57.jpg?v=1795125293"
+   ],
+   "variants": [
+    {
+     "id": "68384751354144",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff701f9c68b.jpg?v=1795125292"
+    },
+    {
+     "id": "68384751386912",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff701f9da57.jpg?v=1795125293"
     }
    ]
   },
@@ -1323,6 +1467,42 @@
      "price": 129.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6af80f7508b97.jpg?v=1794641791"
+    }
+   ]
+  },
+  {
+   "id": "15627776196896",
+   "handle": "whitewater-surfer-canvas-print-gravel-gum",
+   "title": "Whitewater Surfer Canvas Print - Gravel & Gum",
+   "caption": "A surfer throws his arms up as he rides out of the whitewater on the Mid North Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-20T09:11:16+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff73c1e62bc.jpg?v=1795126222",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff73c1e67e2.jpg?v=1795126222"
+   ],
+   "variants": [
+    {
+     "id": "68384843464992",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6aff73c1e62bc.jpg?v=1795126222"
+    },
+    {
+     "id": "68384843497760",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff73c1e67e2.jpg?v=1795126222"
     }
    ]
   },
