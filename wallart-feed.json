@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T03:30:19Z",
+ "generated": "2026-11-21T12:48:53Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -150,6 +150,42 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff8345b9b0e.jpg?v=1795130192"
+    }
+   ]
+  },
+  {
+   "id": "15630646903072",
+   "handle": "coastal-sandblow-panorama-canvas-print-gravel-gum",
+   "title": "Coastal Sandblow Panorama Canvas Print - Gravel & Gum",
+   "caption": "A wide sweep across the crest of a coastal sandblow to the deep blue sea, Rainbow Beach area, Wide Bay, QLD.",
+   "published": "2026-11-21T16:40:34+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b012eaa0913d.jpg?v=1795239605",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b012eaa0a129.jpg?v=1795239605"
+   ],
+   "variants": [
+    {
+     "id": "68413489676576",
+     "options": [
+      "12″×36″"
+     ],
+     "price": 169.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b012eaa0913d.jpg?v=1795239605"
+    },
+    {
+     "id": "68413489709344",
+     "options": [
+      "16″×48″"
+     ],
+     "price": 199.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b012eaa0a129.jpg?v=1795239605"
     }
    ]
   },
@@ -547,6 +583,32 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af976fab731d.jpg?v=1794733832"
+    }
+   ]
+  },
+  {
+   "id": "15630835745056",
+   "handle": "lake-jetty-at-dusk-canvas-print-gravel-gum",
+   "title": "Lake Jetty at Dusk Canvas Print - Gravel & Gum",
+   "caption": "A long timber jetty on still water under an orange dusk glow, Lake Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-21T18:31:19+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0148945c6cc.jpg?v=1795246236"
+   ],
+   "variants": [
+    {
+     "id": "68416483787040",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0148945c6cc.jpg?v=1795246236"
     }
    ]
   },
@@ -1051,6 +1113,42 @@
    ]
   },
   {
+   "id": "15630738227488",
+   "handle": "poinciana-island-view-canvas-print-gravel-gum",
+   "title": "Poinciana Island View Canvas Print - Gravel & Gum",
+   "caption": "Red poinciana blossom in the foreground, with islands and big clouds beyond, Whitsundays, QLD, photographed by Gravel & Gum.",
+   "published": "2026-11-21T17:31:07+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b013a7c3736a.jpg?v=1795242632",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b013a7c37974.jpg?v=1795242632"
+   ],
+   "variants": [
+    {
+     "id": "68414853120288",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b013a7c3736a.jpg?v=1795242632"
+    },
+    {
+     "id": "68414853153056",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b013a7c37974.jpg?v=1795242632"
+    }
+   ]
+  },
+  {
    "id": "15618461827360",
    "handle": "rainbow-over-the-whitsundays-canvas-print-gravel-gum",
    "title": "Rainbow over the Whitsundays Canvas Print - Gravel & Gum",
@@ -1139,6 +1237,42 @@
    ]
   },
   {
+   "id": "15630634385696",
+   "handle": "sandblow-driftwood-canvas-print-gravel-gum",
+   "title": "Sandblow Driftwood Canvas Print - Gravel & Gum",
+   "caption": "Bleached driftwood curling across a coastal sandblow high above the sea, Rainbow Beach area, Wide Bay, QLD, photographed by Gravel & Gum.",
+   "published": "2026-11-21T16:30:50+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b012c5c802b8.jpg?v=1795239015",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b012c5c80fcf.jpg?v=1795239015"
+   ],
+   "variants": [
+    {
+     "id": "68413299491104",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b012c5c802b8.jpg?v=1795239015"
+    },
+    {
+     "id": "68413299523872",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b012c5c80fcf.jpg?v=1795239015"
+    }
+   ]
+  },
+  {
    "id": "15568819814688",
    "handle": "shade-tree-beach-canvas-print-gravel-gum",
    "title": "Shade Tree Beach Canvas Print - Gravel & Gum",
@@ -1191,6 +1325,88 @@
      "price": 159.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9553d96e92.jpg?v=1794725185"
+    }
+   ]
+  },
+  {
+   "id": "15630744158496",
+   "handle": "star-trails-through-the-pines-art-print-gravel-gum",
+   "title": "Star Trails Through the Pines Art Print - Gravel & Gum",
+   "caption": "Star trails circling the night sky, framed by dark pine branches and a glowing moon, a long-exposure photograph by Gravel & Gum.",
+   "published": "2026-11-21T17:41:10+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b013cccef044.jpg?v=1795243222",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b013cccef524.jpg?v=1795243222"
+   ],
+   "variants": [
+    {
+     "id": "68414947623200",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b013cccef044.jpg?v=1795243222"
+    },
+    {
+     "id": "68414947655968",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b013cccef524.jpg?v=1795243222"
+    }
+   ]
+  },
+  {
+   "id": "15630626881824",
+   "handle": "star-trails-through-the-pines-canvas-print-gravel-gum",
+   "title": "Star Trails Through the Pines Canvas Print - Gravel & Gum",
+   "caption": "Star trails circling the night sky, framed by dark pine branches and a soft moon glow, photographed by Gravel & Gum.",
+   "published": "2026-11-21T16:28:18+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b012bbc1bef7.jpg?v=1795238856",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b012bbc1c56a.jpg?v=1795238856",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b012bbc1c5ad.jpg?v=1795238856"
+   ],
+   "variants": [
+    {
+     "id": "68413180477728",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b012bbc1bef7.jpg?v=1795238856"
+    },
+    {
+     "id": "68413180510496",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b012bbc1c56a.jpg?v=1795238856"
+    },
+    {
+     "id": "68413180543264",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b012bbc1c5ad.jpg?v=1795238856"
     }
    ]
   },
@@ -1399,6 +1615,114 @@
    ]
   },
   {
+   "id": "15630583005472",
+   "handle": "sydney-harbour-sunset-art-print-gravel-gum",
+   "title": "Sydney Harbour Sunset Art Print - Gravel & Gum",
+   "caption": "The harbour bridge in silhouette against a golden sunset sky, with the city and the water glowing behind it: Sydney Harbour, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-21T16:18:20+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0128f2b2ad9.jpg?v=1795238142",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0128f2b2e28.jpg?v=1795238141"
+   ],
+   "variants": [
+    {
+     "id": "68412871475488",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0128f2b2ad9.jpg?v=1795238142"
+    },
+    {
+     "id": "68412871508256",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0128f2b2e28.jpg?v=1795238141"
+    }
+   ]
+  },
+  {
+   "id": "15630590542112",
+   "handle": "sydney-harbour-sunset-canvas-print-gravel-gum",
+   "title": "Sydney Harbour Sunset Canvas Print - Gravel & Gum",
+   "caption": "The harbour bridge in silhouette against a golden sunset over the water, Sydney Harbour, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-21T16:18:55+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b01297c5a644.jpg?v=1795238279",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b01297c5b39f.jpg?v=1795238279"
+   ],
+   "variants": [
+    {
+     "id": "68412955492640",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b01297c5a644.jpg?v=1795238279"
+    },
+    {
+     "id": "68412955525408",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b01297c5b39f.jpg?v=1795238279"
+    }
+   ]
+  },
+  {
+   "id": "15630557741344",
+   "handle": "sydney-harbour-sunset-panorama-canvas-print-gravel-gum",
+   "title": "Sydney Harbour Sunset Panorama Canvas Print - Gravel & Gum",
+   "caption": "The sun sets over Sydney Harbour in a wide sweep from the harbour bridge to the city skyline, Sydney Harbour, NSW.",
+   "published": "2026-11-21T16:03:03+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b012599d3264.jpg?v=1795237286",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b012599d393c.jpg?v=1795237286"
+   ],
+   "variants": [
+    {
+     "id": "68412589015328",
+     "options": [
+      "12″×36″"
+     ],
+     "price": 169.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b012599d3264.jpg?v=1795237286"
+    },
+    {
+     "id": "68412589048096",
+     "options": [
+      "16″×48″"
+     ],
+     "price": 199.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b012599d393c.jpg?v=1795237286"
+    }
+   ]
+  },
+  {
    "id": "15613603447072",
    "handle": "tropical-palms-canvas-print-gravel-gum",
    "title": "Tropical Palms Canvas Print - Gravel & Gum",
@@ -1503,6 +1827,42 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff73c1e67e2.jpg?v=1795126222"
+    }
+   ]
+  },
+  {
+   "id": "15630720860448",
+   "handle": "whitsunday-islands-view-canvas-print-gravel-gum",
+   "title": "Whitsunday Islands View Canvas Print - Gravel & Gum",
+   "caption": "Turquoise passages and green islands under big summer clouds from a lookout, Whitsundays, QLD, photographed by Gravel & Gum.",
+   "published": "2026-11-21T17:20:55+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b013806c4ba8.jpg?v=1795242001",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b013806c5997.jpg?v=1795242002"
+   ],
+   "variants": [
+    {
+     "id": "68414439522592",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b013806c4ba8.jpg?v=1795242001"
+    },
+    {
+     "id": "68414439555360",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b013806c5997.jpg?v=1795242002"
     }
    ]
   },
