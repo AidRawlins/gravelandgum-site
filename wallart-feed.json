@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T12:48:53Z",
+ "generated": "2026-11-22T02:20:36Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -114,6 +114,42 @@
      "price": 79.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6afecbc0d7898.jpg?v=1795083212"
+    }
+   ]
+  },
+  {
+   "id": "15632920019232",
+   "handle": "big-sur-coast-panorama-canvas-print-gravel-gum",
+   "title": "Big Sur Coast Panorama Canvas Print - Gravel & Gum",
+   "caption": "An arched bridge, steep cliffs and sea fog rolling in along the Big Sur coast, California.",
+   "published": "2026-11-22T11:24:43+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b0236141d5c0.jpg?v=1795307040",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b0236141da11.jpg?v=1795307040"
+   ],
+   "variants": [
+    {
+     "id": "68438726181152",
+     "options": [
+      "12″×36″"
+     ],
+     "price": 169.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b0236141d5c0.jpg?v=1795307040"
+    },
+    {
+     "id": "68438726213920",
+     "options": [
+      "16″×48″"
+     ],
+     "price": 199.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b0236141da11.jpg?v=1795307040"
     }
    ]
   },
@@ -515,6 +551,42 @@
    ]
   },
   {
+   "id": "15632910975264",
+   "handle": "inlet-sand-swirls-panorama-canvas-print-gravel-gum",
+   "title": "Inlet Sand Swirls Panorama Canvas Print - Gravel & Gum",
+   "caption": "Swirling white sand and turquoise water winding through a tropical inlet, seen from a bush lookout in the Whitsundays, QLD.",
+   "published": "2026-11-22T11:19:42+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b0234d2d3624.jpg?v=1795306723",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b0234d2d42c3.jpg?v=1795306723"
+   ],
+   "variants": [
+    {
+     "id": "68438635381024",
+     "options": [
+      "12″×36″"
+     ],
+     "price": 169.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b0234d2d3624.jpg?v=1795306723"
+    },
+    {
+     "id": "68438635413792",
+     "options": [
+      "16″×48″"
+     ],
+     "price": 199.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b0234d2d42c3.jpg?v=1795306723"
+    }
+   ]
+  },
+  {
    "id": "15627752407328",
    "handle": "jacaranda-harbour-canvas-print-gravel-gum",
    "title": "Jacaranda Harbour Canvas Print - Gravel & Gum",
@@ -583,6 +655,32 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af976fab731d.jpg?v=1794733832"
+    }
+   ]
+  },
+  {
+   "id": "15633074651424",
+   "handle": "lake-jetty-at-dusk-art-print-gravel-gum",
+   "title": "Lake Jetty at Dusk Art Print - Gravel & Gum",
+   "caption": "A long timber jetty reaching across still water under the last orange glow of dusk, Lake Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-22T13:10:46+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b024f04c36e5.jpg?v=1795313421"
+   ],
+   "variants": [
+    {
+     "id": "68440727388448",
+     "options": [
+      "Default Title"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b024f04c36e5.jpg?v=1795313421"
     }
    ]
   },
@@ -1113,6 +1211,42 @@
    ]
   },
   {
+   "id": "15633063772448",
+   "handle": "poinciana-island-view-art-print-gravel-gum",
+   "title": "Poinciana Island View Art Print - Gravel & Gum",
+   "caption": "Red poinciana blossom in the foreground with turquoise water, islands and big clouds beyond, Whitsundays, QLD, photographed by Gravel & Gum.",
+   "published": "2026-11-22T13:03:10+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b024d2b7f885.jpg?v=1795312950",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b024d2b7fefd.jpg?v=1795312950"
+   ],
+   "variants": [
+    {
+     "id": "68440541987104",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b024d2b7f885.jpg?v=1795312950"
+    },
+    {
+     "id": "68440542019872",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b024d2b7fefd.jpg?v=1795312950"
+    }
+   ]
+  },
+  {
    "id": "15630738227488",
    "handle": "poinciana-island-view-canvas-print-gravel-gum",
    "title": "Poinciana Island View Canvas Print - Gravel & Gum",
@@ -1233,6 +1367,42 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6af80ce4792ce.jpg?v=1794641137"
+    }
+   ]
+  },
+  {
+   "id": "15633006395680",
+   "handle": "sandblow-driftwood-art-print-gravel-gum",
+   "title": "Sandblow Driftwood Art Print - Gravel & Gum",
+   "caption": "Bleached driftwood curling across a coastal sandblow high above the sea, Rainbow Beach area, Wide Bay, QLD, photographed by Gravel & Gum.",
+   "published": "2026-11-22T12:25:00+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b02440ae623b.jpg?v=1795310611",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b02440ae65fb.jpg?v=1795310611"
+   ],
+   "variants": [
+    {
+     "id": "68439844356384",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b02440ae623b.jpg?v=1795310611"
+    },
+    {
+     "id": "68439844389152",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b02440ae65fb.jpg?v=1795310611"
     }
    ]
   },
@@ -1827,6 +1997,32 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff73c1e67e2.jpg?v=1795126222"
+    }
+   ]
+  },
+  {
+   "id": "15633069179168",
+   "handle": "whitsunday-islands-view-art-print-gravel-gum",
+   "title": "Whitsunday Islands View Art Print - Gravel & Gum",
+   "caption": "Turquoise passages and islands under big summer clouds from a hillside lookout, Whitsundays, QLD, photographed by Gravel & Gum.",
+   "published": "2026-11-22T13:07:28+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b024e3e9b388.jpg?v=1795313223"
+   ],
+   "variants": [
+    {
+     "id": "68440649433376",
+     "options": [
+      "Default Title"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b024e3e9b388.jpg?v=1795313223"
     }
    ]
   },
