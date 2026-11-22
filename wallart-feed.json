@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T02:20:36Z",
+ "generated": "2026-11-22T09:57:15Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -304,6 +304,42 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6afe8845bbda4.jpg?v=1795065937"
+    }
+   ]
+  },
+  {
+   "id": "15633158275360",
+   "handle": "desert-mittens-panorama-canvas-print-gravel-gum",
+   "title": "Desert Mittens Panorama Canvas Print - Gravel & Gum",
+   "caption": "Red sandstone buttes and mesas rising from the desert under a wide blue sky, Desert Southwest, USA.",
+   "published": "2026-11-22T14:28:31+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b026132ba9a8.jpg?v=1795318079",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b026132baf62.jpg?v=1795318079"
+   ],
+   "variants": [
+    {
+     "id": "68441564152096",
+     "options": [
+      "12″×36″"
+     ],
+     "price": 169.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x36-front-6b026132ba9a8.jpg?v=1795318079"
+    },
+    {
+     "id": "68441564184864",
+     "options": [
+      "16″×48″"
+     ],
+     "price": 199.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x48-front-6b026132baf62.jpg?v=1795318079"
     }
    ]
   },
@@ -1919,6 +1955,62 @@
    ]
   },
   {
+   "id": "15633149165856",
+   "handle": "urunga-sunset-reflections-canvas-print-gravel-gum",
+   "title": "Urunga Sunset Reflections Canvas Print - Gravel & Gum",
+   "caption": "A long timber footbridge mirrored in still water under a glowing pink and gold sunset sky, Urunga, Mid North Coast, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-22T14:24:11+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b02602c88938.jpg?v=1795317813",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b02602c88db1.jpg?v=1795317813",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b02602c88e22.jpg?v=1795317813",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6b02602c88e5c.jpg?v=1795317813"
+   ],
+   "variants": [
+    {
+     "id": "68441553436960",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b02602c88938.jpg?v=1795317813"
+    },
+    {
+     "id": "68441553469728",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b02602c88db1.jpg?v=1795317813"
+    },
+    {
+     "id": "68441553502496",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b02602c88e22.jpg?v=1795317813"
+    },
+    {
+     "id": "68441553535264",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6b02602c88e5c.jpg?v=1795317813"
+    }
+   ]
+  },
+  {
    "id": "15613651812640",
    "handle": "white-magnolia-canvas-print-gravel-gum",
    "title": "White Magnolia Canvas Print - Gravel & Gum",
@@ -2213,6 +2305,42 @@
      "price": 159.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9565e2d66b.jpg?v=1794725474"
+    }
+   ]
+  },
+  {
+   "id": "15633136451872",
+   "handle": "yamba-lighthouse-art-print-gravel-gum",
+   "title": "Yamba Lighthouse Art Print - Gravel & Gum",
+   "caption": "The white tower of the Yamba lighthouse rising into a clear blue sky above the headland grass, Yamba, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-22T14:18:58+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b025e3d0d47a.jpg?v=1795317318",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b025e3d0e86a.jpg?v=1795317318"
+   ],
+   "variants": [
+    {
+     "id": "68441531449632",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b025e3d0d47a.jpg?v=1795317318"
+    },
+    {
+     "id": "68441531482400",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b025e3d0e86a.jpg?v=1795317318"
     }
    ]
   }
