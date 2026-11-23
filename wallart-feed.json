@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T09:57:15Z",
+ "generated": "2026-11-23T07:52:47Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -186,6 +186,118 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff8345b9b0e.jpg?v=1795130192"
+    }
+   ]
+  },
+  {
+   "id": "15638550774048",
+   "handle": "canvas",
+   "title": "Wetland Boardwalk Canvas Print - Gravel & Gum",
+   "caption": "A long boardwalk across a lily-covered wetland under big white clouds, Mid North Coast, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-23T17:41:37+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b03dfeacf1e4.jpg?v=1795416056",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b03dfead05dc.jpg?v=1795416056",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b03dfead063c.jpg?v=1795416056",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6b03dfead066a.jpg?v=1795416056"
+   ],
+   "variants": [
+    {
+     "id": "68493404111136",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b03dfeacf1e4.jpg?v=1795416056"
+    },
+    {
+     "id": "68493404143904",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b03dfead05dc.jpg?v=1795416056"
+    },
+    {
+     "id": "68493404176672",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b03dfead063c.jpg?v=1795416056"
+    },
+    {
+     "id": "68493404209440",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6b03dfead066a.jpg?v=1795416056"
+    }
+   ]
+  },
+  {
+   "id": "15638613426464",
+   "handle": "canvas-1",
+   "title": "Urunga Sunset Jetty Canvas Print - Gravel & Gum",
+   "caption": "A timber jetty leading out under a soft pink and orange sunset sky, Urunga, Mid North Coast, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-23T18:06:47+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b03e5ec259e6.jpg?v=1795417590",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b03e5ec25cf2.jpg?v=1795417590",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b03e5ec25d37.jpg?v=1795417590",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6b03e5ec25d68.jpg?v=1795417590"
+   ],
+   "variants": [
+    {
+     "id": "68494089847072",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b03e5ec259e6.jpg?v=1795417590"
+    },
+    {
+     "id": "68494089879840",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b03e5ec25cf2.jpg?v=1795417590"
+    },
+    {
+     "id": "68494089912608",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b03e5ec25d37.jpg?v=1795417590"
+    },
+    {
+     "id": "68494089945376",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6b03e5ec25d68.jpg?v=1795417590"
     }
    ]
   },
@@ -1315,6 +1427,78 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b013a7c37974.jpg?v=1795242632"
+    }
+   ]
+  },
+  {
+   "id": "15638559097120",
+   "handle": "poster",
+   "title": "Port Fairy Lighthouse Art Print - Gravel & Gum",
+   "caption": "The white stone lighthouse with its red door and cap standing at the end of a rocky path above the surf, Port Fairy, Victoria, photographed by Gravel & Gum.",
+   "published": "2026-11-23T17:46:34+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b03e123926a9.jpg?v=1795416364",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b03e12392a65.jpg?v=1795416364"
+   ],
+   "variants": [
+    {
+     "id": "68493506019616",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b03e123926a9.jpg?v=1795416364"
+    },
+    {
+     "id": "68493506052384",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b03e12392a65.jpg?v=1795416364"
+    }
+   ]
+  },
+  {
+   "id": "15638580429088",
+   "handle": "poster-1",
+   "title": "Blue Water Lilies Art Print - Gravel & Gum",
+   "caption": "Pale blue water lilies opening above a pond of bright green lily pads, Mid North Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-23T17:56:40+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b03e37fe23ae.jpg?v=1795416971",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b03e37fe30f5.jpg?v=1795416970"
+   ],
+   "variants": [
+    {
+     "id": "68493780812064",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b03e37fe23ae.jpg?v=1795416971"
+    },
+    {
+     "id": "68493780844832",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b03e37fe30f5.jpg?v=1795416970"
     }
    ]
   },
