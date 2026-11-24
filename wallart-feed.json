@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T07:52:47Z",
+ "generated": "2026-11-24T17:57:05Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -298,6 +298,118 @@
      "price": 159.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6b03e5ec25d68.jpg?v=1795417590"
+    }
+   ]
+  },
+  {
+   "id": "15642193559840",
+   "handle": "canvas-2",
+   "title": "Boambee Headland Beach Canvas Print - Gravel & Gum",
+   "caption": "A long golden beach curving away to the sea below a grassy headland, under a big bank of cloud, Coffs Coast, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-24T23:49:03+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b05877c9114d.jpg?v=1795524489",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b05877c911a2.jpg?v=1795524489",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b05877c911dc.jpg?v=1795524489",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b05877c90adf.jpg?v=1795524489"
+   ],
+   "variants": [
+    {
+     "id": "68519011582240",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b05877c9114d.jpg?v=1795524489"
+    },
+    {
+     "id": "68519011615008",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b05877c911a2.jpg?v=1795524489"
+    },
+    {
+     "id": "68519011647776",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b05877c911dc.jpg?v=1795524489"
+    },
+    {
+     "id": "68519011680544",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b05877c90adf.jpg?v=1795524489"
+    }
+   ]
+  },
+  {
+   "id": "15642282754336",
+   "handle": "canvas-3",
+   "title": "Yamba Lighthouse Canvas Print - Gravel & Gum",
+   "caption": "A tall fluted white lighthouse with a blue door standing against a deep blue sky, Yamba, Northern Rivers, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T00:18:07+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b058e3f3e639.jpg?v=1795526218",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b058e3f3e66d.jpg?v=1795526218",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b058e3f3e6a7.jpg?v=1795526218",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b058e3f3d933.jpg?v=1795526218"
+   ],
+   "variants": [
+    {
+     "id": "68519261471008",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b058e3f3e639.jpg?v=1795526218"
+    },
+    {
+     "id": "68519261503776",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b058e3f3e66d.jpg?v=1795526218"
+    },
+    {
+     "id": "68519261536544",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b058e3f3e6a7.jpg?v=1795526218"
+    },
+    {
+     "id": "68519261569312",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b058e3f3d933.jpg?v=1795526218"
     }
    ]
   },
@@ -1499,6 +1611,104 @@
      "price": 54.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b03e37fe30f5.jpg?v=1795416970"
+    }
+   ]
+  },
+  {
+   "id": "15642177274144",
+   "handle": "poster-2",
+   "title": "Golden Paper Daisy Art Print - Gravel & Gum",
+   "caption": "A golden paper daisy (everlasting) in full bloom, its sunny petals around a deep orange centre, Coffs Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-24T23:42:55+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05861d29b0c.jpg?v=1795524134",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05861d2a81d.jpg?v=1795524134"
+   ],
+   "variants": [
+    {
+     "id": "68518993428768",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05861d29b0c.jpg?v=1795524134"
+    },
+    {
+     "id": "68518993461536",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05861d2a81d.jpg?v=1795524134"
+    }
+   ]
+  },
+  {
+   "id": "15642230063392",
+   "handle": "poster-3",
+   "title": "Urunga Sunset Reflections Art Print - Gravel & Gum",
+   "caption": "A long timber footbridge mirrored in still water under a glowing pink and gold sunset sky: Urunga, Mid North Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T00:01:33+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b058a80c879f.jpg?v=1795525257",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b058a80c94b1.jpg?v=1795525257"
+   ],
+   "variants": [
+    {
+     "id": "68519062896928",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b058a80c879f.jpg?v=1795525257"
+    },
+    {
+     "id": "68519062929696",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b058a80c94b1.jpg?v=1795525257"
+    }
+   ]
+  },
+  {
+   "id": "15642248675616",
+   "handle": "poster-4",
+   "title": "Monarch Butterfly Art Print - Gravel & Gum",
+   "caption": "A monarch butterfly resting with its orange and black wings spread open across fresh green leaves, Coffs Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T00:06:09+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b058b7730f39.jpg?v=1795525514"
+   ],
+   "variants": [
+    {
+     "id": "68519106085152",
+     "options": [
+      "Default Title"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b058b7730f39.jpg?v=1795525514"
     }
    ]
   },
