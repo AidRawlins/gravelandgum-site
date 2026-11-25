@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T17:57:05Z",
+ "generated": "2026-11-25T02:36:12Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -302,6 +302,230 @@
    ]
   },
   {
+   "id": "15643972927776",
+   "handle": "canvas-10",
+   "title": "Lighthouse Mackerel Sky Canvas Print - Gravel & Gum",
+   "caption": "A small white lighthouse under a mackerel sky of scattered cloud, the sea behind, Port Macquarie, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T09:53:41+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b0615473d724.jpg?v=1795560787",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b0615473dc1e.jpg?v=1795560788",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b0615473dc50.jpg?v=1795560788",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b0615473dc88.jpg?v=1795560788"
+   ],
+   "variants": [
+    {
+     "id": "68534287106336",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b0615473dc1e.jpg?v=1795560788"
+    },
+    {
+     "id": "68534287139104",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b0615473dc50.jpg?v=1795560788"
+    },
+    {
+     "id": "68534287171872",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b0615473dc88.jpg?v=1795560788"
+    },
+    {
+     "id": "68534287204640",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b0615473d724.jpg?v=1795560787"
+    }
+   ]
+  },
+  {
+   "id": "15644082700576",
+   "handle": "canvas-11",
+   "title": "Bird's Nest Fern Canvas Print - Gravel & Gum",
+   "caption": "A bird's nest fern growing in the grip of a strangler fig, blue sky above, Port Macquarie, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T10:18:39+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b061a5d63b52.jpg?v=1795562093",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b061a5d64178.jpg?v=1795562093",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b061a5d641ad.jpg?v=1795562093",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b061a5d641ec.jpg?v=1795562093"
+   ],
+   "variants": [
+    {
+     "id": "68536486822176",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b061a5d64178.jpg?v=1795562093"
+    },
+    {
+     "id": "68536486854944",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b061a5d641ad.jpg?v=1795562093"
+    },
+    {
+     "id": "68536486887712",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b061a5d641ec.jpg?v=1795562093"
+    },
+    {
+     "id": "68536486920480",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b061a5d63b52.jpg?v=1795562093"
+    }
+   ]
+  },
+  {
+   "id": "15644086927648",
+   "handle": "canvas-12",
+   "title": "Stairs to the Rocks Canvas Print - Gravel & Gum",
+   "caption": "Weathered timber stairs leading down to a rocky cove and blue sea, Port Macquarie, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T10:18:39+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b061ab9e71cc.jpg?v=1795562182",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b061ab9e8592.jpg?v=1795562182",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b061ab9e85f4.jpg?v=1795562182",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b061ab9e8640.jpg?v=1795562182"
+   ],
+   "variants": [
+    {
+     "id": "68536882594080",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b061ab9e8592.jpg?v=1795562182"
+    },
+    {
+     "id": "68536882626848",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b061ab9e85f4.jpg?v=1795562182"
+    },
+    {
+     "id": "68536882659616",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b061ab9e8640.jpg?v=1795562182"
+    },
+    {
+     "id": "68536882692384",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b061ab9e71cc.jpg?v=1795562182"
+    }
+   ]
+  },
+  {
+   "id": "15644094988576",
+   "handle": "canvas-13",
+   "title": "Headland Surf View Canvas Print - Gravel & Gum",
+   "caption": "Surf breaking around a dark rocky headland, a long beach curving away under a big sky, Port Macquarie, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T10:19:22+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b061b140ffd6.jpg?v=1795562326",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b061b1410d14.jpg?v=1795562326",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b061b1410d5f.jpg?v=1795562326",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b061b1410d9e.jpg?v=1795562326"
+   ],
+   "variants": [
+    {
+     "id": "68537213780256",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b061b1410d14.jpg?v=1795562326"
+    },
+    {
+     "id": "68537213813024",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b061b1410d5f.jpg?v=1795562326"
+    },
+    {
+     "id": "68537213845792",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b061b1410d9e.jpg?v=1795562326"
+    },
+    {
+     "id": "68537213878560",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b061b140ffd6.jpg?v=1795562326"
+    }
+   ]
+  },
+  {
    "id": "15642193559840",
    "handle": "canvas-2",
    "title": "Boambee Headland Beach Canvas Print - Gravel & Gum",
@@ -410,6 +634,212 @@
      "price": 159.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b058e3f3d933.jpg?v=1795526218"
+    }
+   ]
+  },
+  {
+   "id": "15643199930656",
+   "handle": "canvas-4",
+   "title": "Port Fairy Lighthouse Canvas Print - Gravel & Gum",
+   "caption": "A historic white lighthouse with a red cap at the end of a stone causeway, surf rolling in behind, Port Fairy, south-west Victoria, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T05:49:58+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05dc1ef34a0.jpg?v=1795546153",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05dc1ef41f4.jpg?v=1795546153"
+   ],
+   "variants": [
+    {
+     "id": "68521539272992",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05dc1ef34a0.jpg?v=1795546153"
+    },
+    {
+     "id": "68521539305760",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05dc1ef41f4.jpg?v=1795546153"
+    }
+   ]
+  },
+  {
+   "id": "15643202552096",
+   "handle": "canvas-5",
+   "title": "Purple Mushroom Pair Canvas Print - Gravel & Gum",
+   "caption": "Two glossy purple mushrooms pushing up side by side through grass and fallen gum leaves, Victorian High Country, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T05:53:47+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05dcfac5ccc.jpg?v=1795546384",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05dcfac602b.jpg?v=1795546384"
+   ],
+   "variants": [
+    {
+     "id": "68521544089888",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05dcfac5ccc.jpg?v=1795546384"
+    },
+    {
+     "id": "68521544122656",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05dcfac602b.jpg?v=1795546384"
+    }
+   ]
+  },
+  {
+   "id": "15643208057120",
+   "handle": "canvas-6",
+   "title": "Golden Paper Daisy Canvas Print - Gravel & Gum",
+   "caption": "A golden paper daisy (everlasting) in full bloom, its sunny petals around a deep orange centre, Coffs Coast, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T05:56:35+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05ddb1d0d61.jpg?v=1795546555",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05ddb1d1a62.jpg?v=1795546555"
+   ],
+   "variants": [
+    {
+     "id": "68521550250272",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05ddb1d0d61.jpg?v=1795546555"
+    },
+    {
+     "id": "68521550283040",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05ddb1d1a62.jpg?v=1795546555"
+    }
+   ]
+  },
+  {
+   "id": "15643213922592",
+   "handle": "canvas-7",
+   "title": "Kangaroo Paw Flower Canvas Print - Gravel & Gum",
+   "caption": "Fuzzy golden kangaroo paw flowers on a red stem, close up against soft garden colours, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T06:00:30+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05de9b02bd9.jpg?v=1795546789",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05de9b02ebd.jpg?v=1795546789"
+   ],
+   "variants": [
+    {
+     "id": "68521557131552",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05de9b02bd9.jpg?v=1795546789"
+    },
+    {
+     "id": "68521557164320",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05de9b02ebd.jpg?v=1795546789"
+    }
+   ]
+  },
+  {
+   "id": "15643216118048",
+   "handle": "canvas-8",
+   "title": "Blue Water Lilies Canvas Print - Gravel & Gum",
+   "caption": "Pale blue water lilies opening above bright green lily pads on dark water, Mid North Coast, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T06:04:28+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05df7e4896e.jpg?v=1795547018",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05df7e48f38.jpg?v=1795547018"
+   ],
+   "variants": [
+    {
+     "id": "68521571516704",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05df7e4896e.jpg?v=1795547018"
+    },
+    {
+     "id": "68521571549472",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b05df7e48f38.jpg?v=1795547018"
+    }
+   ]
+  },
+  {
+   "id": "15643218903328",
+   "handle": "canvas-9",
+   "title": "Monarch Butterfly Canvas Print - Gravel & Gum",
+   "caption": "A monarch butterfly resting with its orange and black wings spread open across fresh green leaves, Coffs Coast, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-25T06:08:11+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05e05ec707b.jpg?v=1795547246"
+   ],
+   "variants": [
+    {
+     "id": "68521574498592",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b05e05ec707b.jpg?v=1795547246"
     }
    ]
   },
@@ -1615,6 +2045,186 @@
    ]
   },
   {
+   "id": "15643956969760",
+   "handle": "poster-10",
+   "title": "Koala in a Gum Tree Art Print - Gravel & Gum",
+   "caption": "A koala hugging a gum tree trunk, looking out through the eucalyptus leaves, Port Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T09:50:39+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b061483e1ae4.jpg?v=1795560594",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b061483e318d.jpg?v=1795560594"
+   ],
+   "variants": [
+    {
+     "id": "68534164980000",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b061483e1ae4.jpg?v=1795560594"
+    },
+    {
+     "id": "68534165012768",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b061483e318d.jpg?v=1795560594"
+    }
+   ]
+  },
+  {
+   "id": "15644046917920",
+   "handle": "poster-11",
+   "title": "Lighthouse Mackerel Sky Art Print - Gravel & Gum",
+   "caption": "A small white lighthouse under a mackerel sky of scattered cloud, the sea behind, Port Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T10:12:22+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b06189549534.jpg?v=1795561635",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0618954a30e.jpg?v=1795561635"
+   ],
+   "variants": [
+    {
+     "id": "68535806624032",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b06189549534.jpg?v=1795561635"
+    },
+    {
+     "id": "68535806656800",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0618954a30e.jpg?v=1795561635"
+    }
+   ]
+  },
+  {
+   "id": "15644054683936",
+   "handle": "poster-12",
+   "title": "Bird's Nest Fern Art Print - Gravel & Gum",
+   "caption": "A bird's nest fern growing in the grip of a strangler fig, blue sky above, Port Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T10:12:22+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0618efdb4d3.jpg?v=1795561727",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0618efdbba8.jpg?v=1795561727"
+   ],
+   "variants": [
+    {
+     "id": "68536022565152",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0618efdb4d3.jpg?v=1795561727"
+    },
+    {
+     "id": "68536022597920",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0618efdbba8.jpg?v=1795561727"
+    }
+   ]
+  },
+  {
+   "id": "15644061434144",
+   "handle": "poster-13",
+   "title": "Headland Surf View Art Print - Gravel & Gum",
+   "caption": "Surf breaking around a dark rocky headland, a long beach curving away under a big sky, Port Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T10:12:23+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b06193f8ae58.jpg?v=1795561802",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b06193f8bc1a.jpg?v=1795561803"
+   ],
+   "variants": [
+    {
+     "id": "68536116412704",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b06193f8ae58.jpg?v=1795561802"
+    },
+    {
+     "id": "68536116445472",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b06193f8bc1a.jpg?v=1795561803"
+    }
+   ]
+  },
+  {
+   "id": "15644069167392",
+   "handle": "poster-14",
+   "title": "Stairs to the Rocks Art Print - Gravel & Gum",
+   "caption": "Weathered timber stairs leading down to a rocky cove and blue sea, Port Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T10:12:50+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b061993c824b.jpg?v=1795561887",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b061993c86ea.jpg?v=1795561887"
+   ],
+   "variants": [
+    {
+     "id": "68536163434784",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b061993c824b.jpg?v=1795561887"
+    },
+    {
+     "id": "68536163467552",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b061993c86ea.jpg?v=1795561887"
+    }
+   ]
+  },
+  {
    "id": "15642177274144",
    "handle": "poster-2",
    "title": "Golden Paper Daisy Art Print - Gravel & Gum",
@@ -1709,6 +2319,186 @@
      "price": 39.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b058b7730f39.jpg?v=1795525514"
+    }
+   ]
+  },
+  {
+   "id": "15643066302752",
+   "handle": "poster-5",
+   "title": "Kangaroo Paw Flower Art Print - Gravel & Gum",
+   "caption": "Fuzzy golden kangaroo paw flowers on a red stem, close up against soft garden colours, photographed by Gravel & Gum.",
+   "published": "2026-11-25T05:33:28+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05d82f00d91.jpg?v=1795545145",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05d82f01ac7.jpg?v=1795545145"
+   ],
+   "variants": [
+    {
+     "id": "68521356984608",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05d82f00d91.jpg?v=1795545145"
+    },
+    {
+     "id": "68521357017376",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05d82f01ac7.jpg?v=1795545145"
+    }
+   ]
+  },
+  {
+   "id": "15643170308384",
+   "handle": "poster-6",
+   "title": "Purple Mushroom Pair Art Print - Gravel & Gum",
+   "caption": "Two glossy purple mushrooms pushing up side by side through grass and fallen gum leaves, Victorian High Country, photographed by Gravel & Gum.",
+   "published": "2026-11-25T05:37:02+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05d91187ee0.jpg?v=1795545382",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05d91188bd7.jpg?v=1795545381"
+   ],
+   "variants": [
+    {
+     "id": "68521472196896",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05d91187ee0.jpg?v=1795545382"
+    },
+    {
+     "id": "68521472229664",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05d91188bd7.jpg?v=1795545381"
+    }
+   ]
+  },
+  {
+   "id": "15643193475360",
+   "handle": "poster-7",
+   "title": "Urunga Sunset Jetty Art Print - Gravel & Gum",
+   "caption": "A timber jetty leading out under a soft pink and orange sunset sky, Urunga, Mid North Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T05:39:55+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05d9cda07ef.jpg?v=1795545559",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05d9cda164f.jpg?v=1795545559"
+   ],
+   "variants": [
+    {
+     "id": "68521518891296",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05d9cda07ef.jpg?v=1795545559"
+    },
+    {
+     "id": "68521518924064",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05d9cda164f.jpg?v=1795545559"
+    }
+   ]
+  },
+  {
+   "id": "15643194360096",
+   "handle": "poster-8",
+   "title": "Wetland Boardwalk Art Print - Gravel & Gum",
+   "caption": "A long boardwalk across a lily-covered wetland under big white clouds, Mid North Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T05:43:13+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05da979dc34.jpg?v=1795545765",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05da979dfb0.jpg?v=1795545765"
+   ],
+   "variants": [
+    {
+     "id": "68521521119520",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05da979dc34.jpg?v=1795545765"
+    },
+    {
+     "id": "68521521152288",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05da979dfb0.jpg?v=1795545765"
+    }
+   ]
+  },
+  {
+   "id": "15643197014304",
+   "handle": "poster-9",
+   "title": "Boambee Headland Beach Art Print - Gravel & Gum",
+   "caption": "A long golden beach curving away to the sea below a grassy headland, under a big bank of cloud, Coffs Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-25T05:46:00+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05db381b941.jpg?v=1795545922",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05db381c7d9.jpg?v=1795545922"
+   ],
+   "variants": [
+    {
+     "id": "68521534325024",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b05db381b941.jpg?v=1795545922"
+    },
+    {
+     "id": "68521534357792",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b05db381c7d9.jpg?v=1795545922"
     }
    ]
   },
