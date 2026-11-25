@@ -66,11 +66,11 @@ figure{margin:0;background:rgba(243,239,230,.06);border-radius:3px;overflow:hidd
 figure img{display:block;width:100%;height:200px;object-fit:cover;background:var(--bitumen)}
 figcaption{padding:11px 13px 13px;font-size:14px;color:rgba(243,239,230,.75)}
 
-/* strip — smaller tiles, deliberately uncaptioned */
-.striphead{font-size:15px;color:rgba(243,239,230,.55);font-weight:600;text-transform:uppercase;
-  letter-spacing:.06em;margin:44px 0 14px}
-.strip{display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:10px}
-.strip img{display:block;width:100%;height:118px;object-fit:cover;border-radius:2px;background:var(--bitumen)}
+/* wide panorama favourite spans two columns; its picture keeps both buttes in view */
+.gallery{grid-auto-flow:dense}
+@media(min-width:560px){figure.pano{grid-column:span 2}}
+figure.pano img{object-position:80% 50%}
+figure.right img{object-position:85% 50%}
 
 /* story */
 .story p{max-width:64ch;margin:0 0 18px;font-size:18px;line-height:1.7;color:rgba(31,31,28,.86)}
@@ -86,7 +86,6 @@ a.giftcard{display:block;text-decoration:none;color:var(--bone)}a.giftcard:hover
 .giftcard p.gprice{margin:0 0 4px;color:var(--dirt);font-weight:600}
 .giftgrid{margin-bottom:28px}
 .walllead{max-width:60ch;margin:-12px 0 10px;font-size:19px;color:var(--bone)}
-.strip a{display:block;text-decoration:none}.strip a:hover{opacity:.85}
 figure a{display:block}
 
 /* stockists */
@@ -153,8 +152,6 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
   .badge{width:48px;height:48px}
   h2{font-size:24px}
   figure img{height:170px}
-  .strip{grid-template-columns:repeat(auto-fill,minmax(110px,1fr))}
-  .strip img{height:96px}
 }
 </style>
 </head>
@@ -187,21 +184,15 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
     <h2>A few favourites</h2>
     <div class="gallery">
       <figure><img src="images/IMG_5587.jpg" alt="Fishing boats at night" loading="lazy"><figcaption>Fishing boats at night, Fremantle, Western Australia</figcaption></figure>
+      <figure data-wall="Stairs to the Rocks"><img src="images/fav-GG0515.jpg" alt="Wooden stairs down to the rocks and sea" loading="lazy"><figcaption>Stairs to the Rocks, Port Macquarie, New South Wales</figcaption></figure>
+      <figure class="pano" data-wall="Desert Mittens Panorama"><img src="images/fav-GG0503.jpg" alt="Red desert buttes under a blue sky, panorama" loading="lazy"><figcaption>Desert Mittens Panorama, Desert Southwest, USA</figcaption></figure>
+      <figure data-wall="Beach Catamarans"><img src="images/fav-GG0481.jpg" alt="Catamarans with bright sails lined up on the beach" loading="lazy"><figcaption>Beach Catamarans, Whitsundays, Queensland</figcaption></figure>
       <figure><img src="images/IMG_8008.jpg" alt="Great Ocean Road" loading="lazy"><figcaption>Great Ocean Road, Victoria</figcaption></figure>
+      <figure data-wall="Wing over the Ocean"><img src="images/fav-GG0446.jpg" alt="An aircraft wing above the clouds and ocean" loading="lazy"><figcaption>Wing over the Ocean, Far North Queensland</figcaption></figure>
       <figure><img src="images/IMG_9849.jpg" alt="Four Mile Beach" loading="lazy"><figcaption>Four Mile Beach, Queensland</figcaption></figure>
-      <figure><img src="images/IMG_9667.jpg" alt="Sea turtle" loading="lazy"><figcaption>Sea turtle, Green Island, Queensland</figcaption></figure>
+      <figure class="right" data-wall="Surfers Walking In"><img src="images/fav-GG0403.jpg" alt="Two surfers walking out of the waves onto a long beach" loading="lazy"><figcaption>Surfers Walking In, Northern Rivers, New South Wales</figcaption></figure>
       <figure><img src="images/IMG_4160.jpg" alt="Grevillea" loading="lazy"><figcaption>Grevillea, Emu Park, Queensland</figcaption></figure>
-      <figure><img src="images/IMG_1307.jpg" alt="Yacht at sunset" loading="lazy"><figcaption>Yacht at sunset, Lake Macquarie, New South Wales</figcaption></figure>
-      <figure><img src="images/IMG_0981.jpg" alt="Hibiscus" loading="lazy"><figcaption>Hibiscus, Sawtell, New South Wales</figcaption></figure>
-      <figure><img src="images/IMG_3986.jpg" alt="Surfers Paradise" loading="lazy"><figcaption>Surfers Paradise, Queensland</figcaption></figure>
-    </div>
-
-    <div class="striphead">New from the road</div>
-    <div class="strip">
-      <img src="images/IMG_0466.jpg" alt="Catamarans drawn up on the sand, Hamilton Island, Queensland" loading="lazy">
-      <img src="images/IMG_0413.jpg" alt="Palms over the water, Whitsunday Islands, Queensland" loading="lazy">
-      <img src="images/IMG_0942.jpg" alt="Reef colours through clear water, Great Barrier Reef, Queensland" loading="lazy">
-      <img src="images/IMG_0520.jpg" alt="A double rainbow over the sea from a coastal headland" loading="lazy">
+      <figure data-wall="Driftwood Beach"><img src="images/fav-GG0137.jpg" alt="Driftwood under casuarina trees on a tropical beach" loading="lazy"><figcaption>Driftwood Beach, Far North Queensland</figcaption></figure>
     </div>
   </div>
 </section>
@@ -981,10 +972,6 @@ footer{padding:36px 0 52px;color:rgba(243,239,230,.55);font-size:14px}
         live.forEach(x=>{ const r=x.prods.map(p=>p.rank).filter(Boolean); x.rank=r.length?Math.min.apply(null,r):99; x.when=Math.max.apply(null,x.prods.map(p=>when(p.published))); });
         live.sort((a,b)=>a.rank-b.rank||b.when-a.when);
         live.forEach(x=>grid.appendChild(x.card));
-        /* "New from the road": the newest wall-art prints, each linking to its card. */
-        const fresh=live.slice().sort((a,b)=>b.when-a.when).slice(0,12);
-        const strip=document.querySelector('.strip');
-        if(strip&&fresh.length>=6) strip.innerHTML=fresh.map(x=>'<a href="#'+x.card.id+'"><img src="'+esc(sz((x.w.opener&&x.w.opener.src)||x.w.images[0],400))+'" alt="'+esc(x.w.name)+', wall art" loading="lazy"></a>').join('');
         /* A favourite with data-wall="<print name>" links to that print's card once it is on sale. */
         document.querySelectorAll('.gallery figure[data-wall]').forEach(f=>{ const c=document.getElementById(slug(f.dataset.wall)); const img=f.querySelector('img'); if(!c||c.hidden||!img||img.parentNode.tagName==='A') return; const a=document.createElement('a'); a.href='#'+c.id; img.replaceWith(a); a.appendChild(img); });
       }).catch(()=>{});
