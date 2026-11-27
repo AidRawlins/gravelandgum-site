@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T21:43:19Z",
+ "generated": "2026-11-27T14:00:53Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -522,6 +522,160 @@
      "price": 159.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b061b140ffd6.jpg?v=1795562326"
+    }
+   ]
+  },
+  {
+   "id": "15657105457440",
+   "handle": "canvas-14",
+   "title": "Norfolk Pine Beach Canvas Print - Gravel & Gum",
+   "caption": "Norfolk Island pine branches framing a golden surf beach and a green foreshore lawn, Port Macquarie, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-27T22:18:15+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b09650707f3a.jpg?v=1795777812",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b0965070828a.jpg?v=1795777812",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b096507082bc.jpg?v=1795777812",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b096507082f7.jpg?v=1795777812"
+   ],
+   "variants": [
+    {
+     "id": "68614092718368",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-wall-6b0965070828a.jpg?v=1795777812"
+    },
+    {
+     "id": "68614092751136",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-wall-6b096507082bc.jpg?v=1795777812"
+    },
+    {
+     "id": "68614092783904",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-wall-6b096507082f7.jpg?v=1795777812"
+    },
+    {
+     "id": "68614092816672",
+     "options": [
+      "24″×36″"
+     ],
+     "price": 159.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-wall-6b09650707f3a.jpg?v=1795777812"
+    }
+   ]
+  },
+  {
+   "id": "15657119056160",
+   "handle": "canvas-15",
+   "title": "Roaming Peacock Display Canvas Print - Gravel & Gum",
+   "caption": "A peacock's shimmering blue head and chest framed by the fanned eyes of his open tail, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-27T22:18:16+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b09659ba4e77.jpg?v=1795777964",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b09659ba5656.jpg?v=1795777964"
+   ],
+   "variants": [
+    {
+     "id": "68614116147488",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b09659ba4e77.jpg?v=1795777964"
+    },
+    {
+     "id": "68614116180256",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b09659ba5656.jpg?v=1795777964"
+    }
+   ]
+  },
+  {
+   "id": "15657128395040",
+   "handle": "canvas-16",
+   "title": "Koala in a Gum Tree Canvas Print - Gravel & Gum",
+   "caption": "A koala hugging a gum tree trunk, looking out through the eucalyptus leaves, Port Macquarie, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-27T22:18:16+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b09661453285.jpg?v=1795778083",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b096614544ad.jpg?v=1795778083"
+   ],
+   "variants": [
+    {
+     "id": "68614132367648",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b09661453285.jpg?v=1795778083"
+    },
+    {
+     "id": "68614132400416",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b096614544ad.jpg?v=1795778083"
+    }
+   ]
+  },
+  {
+   "id": "15657140453664",
+   "handle": "canvas-17",
+   "title": "Sleepy Koala Canvas Print - Gravel & Gum",
+   "caption": "A sleepy koala dozing in the fork of a gum tree, Port Macquarie, NSW, photographed by Gravel & Gum on the road.",
+   "published": "2026-11-27T22:18:17+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b096694698ce.jpg?v=1795778211"
+   ],
+   "variants": [
+    {
+     "id": "68614160154912",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b096694698ce.jpg?v=1795778211"
     }
    ]
   },
@@ -2535,6 +2689,150 @@
      "price": 39.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0816e77ae44.jpg?v=1795692279"
+    }
+   ]
+  },
+  {
+   "id": "15657173516576",
+   "handle": "poster-23",
+   "title": "Cypress Beach Carmel Art Print - Gravel & Gum",
+   "caption": "Windswept cypress trees arching over a sandy beach, the bay and hills beyond, California, USA, photographed by Gravel & Gum.",
+   "published": "2026-11-27T22:31:46+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0967d0264ce.jpg?v=1795778526",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0967d0273f4.jpg?v=1795778527"
+   ],
+   "variants": [
+    {
+     "id": "68614197281056",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0967d0264ce.jpg?v=1795778526"
+    },
+    {
+     "id": "68614197313824",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0967d0273f4.jpg?v=1795778527"
+    }
+   ]
+  },
+  {
+   "id": "15657192653088",
+   "handle": "poster-24",
+   "title": "Spinifex on the Beach Art Print - Gravel & Gum",
+   "caption": "A tuft of spinifex grass on the sand with the surf rolling in under a streaked blue sky, Tweed Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-27T22:31:46+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b096843597d6.jpg?v=1795778669",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b09684359ed8.jpg?v=1795778669"
+   ],
+   "variants": [
+    {
+     "id": "68614218023200",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b096843597d6.jpg?v=1795778669"
+    },
+    {
+     "id": "68614218055968",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b09684359ed8.jpg?v=1795778669"
+    }
+   ]
+  },
+  {
+   "id": "15657208086816",
+   "handle": "poster-25",
+   "title": "Palm Grove Sea View Art Print - Gravel & Gum",
+   "caption": "Coconut palms leaning over a turquoise sea, Far North Queensland, photographed by Gravel & Gum.",
+   "published": "2026-11-27T22:31:47+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0968d3ce0fe_8620a800-3761-432b-94f7-8c1ab238a587.jpg?v=1795778788",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0968d3ce580.jpg?v=1795778785"
+   ],
+   "variants": [
+    {
+     "id": "68614239289632",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0968d3ce0fe_8620a800-3761-432b-94f7-8c1ab238a587.jpg?v=1795778788"
+    },
+    {
+     "id": "68614239322400",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b0968d3ce580.jpg?v=1795778785"
+    }
+   ]
+  },
+  {
+   "id": "15657226797344",
+   "handle": "poster-26",
+   "title": "Bottlebrush Cluster Art Print - Gravel & Gum",
+   "caption": "A cluster of bright red bottlebrush flowers among fine green leaves, Victoria, photographed by Gravel & Gum.",
+   "published": "2026-11-27T22:31:47+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b09694a92c1b.jpg?v=1795778903",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b09694a932a3.jpg?v=1795778905"
+   ],
+   "variants": [
+    {
+     "id": "68614257082656",
+     "options": [
+      "12″×16″"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b09694a92c1b.jpg?v=1795778903"
+    },
+    {
+     "id": "68614257115424",
+     "options": [
+      "18″×24″"
+     ],
+     "price": 54.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b09694a932a3.jpg?v=1795778905"
     }
    ]
   },
