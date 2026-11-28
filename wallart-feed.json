@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T08:03:00Z",
+ "generated": "2026-11-28T16:59:01Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -3023,6 +3023,58 @@
      "price": 54.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-18x24-transparent-6b09694a932a3.jpg?v=1795778905"
+    }
+   ]
+  },
+  {
+   "id": "15662446018848",
+   "handle": "poster-27",
+   "title": "Pigface Flower Art Print - Gravel & Gum",
+   "caption": "A bright magenta pigface flower opening among fleshy green coastal leaves, Port Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-28T22:02:39+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0ab44b70852.jpg?v=1795863642"
+   ],
+   "variants": [
+    {
+     "id": "68633107366176",
+     "options": [
+      "Default Title"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0ab44b70852.jpg?v=1795863642"
+    }
+   ]
+  },
+  {
+   "id": "15662459846944",
+   "handle": "poster-28",
+   "title": "Bracket Fungi Art Print - Gravel & Gum",
+   "caption": "Tiers of golden bracket fungi fanning out from a fallen log among forest leaf litter, Mid North Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-28T22:08:11+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0ab5b615e20.jpg?v=1795864011"
+   ],
+   "variants": [
+    {
+     "id": "68633181782304",
+     "options": [
+      "Default Title"
+     ],
+     "price": 39.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/enhanced-matte-paper-poster-_in_-12x16-transparent-6b0ab5b615e20.jpg?v=1795864011"
     }
    ]
   },
