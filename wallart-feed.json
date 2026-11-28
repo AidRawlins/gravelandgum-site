@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:00:53Z",
+ "generated": "2026-11-28T08:03:00Z",
  "source": "https://www.cutpricegadgets.com",
  "tag": "gg-site-only",
  "products": [
@@ -186,6 +186,88 @@
      "price": 109.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6aff8345b9b0e.jpg?v=1795130192"
+    }
+   ]
+  },
+  {
+   "id": "15660835537184",
+   "handle": "bottlebrush-cluster-canvas-print-gravel-gum",
+   "title": "Bottlebrush Cluster Canvas Print - Gravel & Gum",
+   "caption": "A cluster of bright red bottlebrush flowers among fine green leaves, Victoria, photographed by Gravel & Gum.",
+   "published": "2026-11-28T10:03:07+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0bfbbe54f.jpg?v=1795820557",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0bfbbeb7a.jpg?v=1795820557",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b0a0bfbbec01.jpg?v=1795820557"
+   ],
+   "variants": [
+    {
+     "id": "68623806595360",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0bfbbe54f.jpg?v=1795820557"
+    },
+    {
+     "id": "68623806628128",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0bfbbeb7a.jpg?v=1795820557"
+    },
+    {
+     "id": "68623806660896",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b0a0bfbbec01.jpg?v=1795820557"
+    }
+   ]
+  },
+  {
+   "id": "15660891242784",
+   "handle": "bracket-fungi-canvas-print-gravel-gum",
+   "title": "Bracket Fungi Canvas Print - Gravel & Gum",
+   "caption": "A ring of banded orange bracket fungi on a log among fallen leaves, Mid North Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-28T10:30:42+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a125828d38.jpg?v=1795822184",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a125829223.jpg?v=1795822183"
+   ],
+   "variants": [
+    {
+     "id": "68623960146208",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a125828d38.jpg?v=1795822184"
+    },
+    {
+     "id": "68623960178976",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a125829223.jpg?v=1795822183"
     }
    ]
   },
@@ -1080,6 +1162,42 @@
    ]
   },
   {
+   "id": "15660810273056",
+   "handle": "cypress-beach-carmel-canvas-print-gravel-gum",
+   "title": "Cypress Beach Carmel Canvas Print - Gravel & Gum",
+   "caption": "Windswept cypress trees arching over a sandy beach, the bay and hills beyond, California, USA, photographed by Gravel & Gum.",
+   "published": "2026-11-28T09:53:10+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0992bac93.jpg?v=1795819941",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0992bb258.jpg?v=1795819941"
+   ],
+   "variants": [
+    {
+     "id": "68623736570144",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0992bac93.jpg?v=1795819941"
+    },
+    {
+     "id": "68623736602912",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0992bb258.jpg?v=1795819941"
+    }
+   ]
+  },
+  {
    "id": "15626978492704",
    "handle": "desert-buttes-at-sunset-canvas-print-gravel-gum",
    "title": "Desert Buttes at Sunset Canvas Print - Gravel & Gum",
@@ -1953,6 +2071,52 @@
    ]
   },
   {
+   "id": "15660827377952",
+   "handle": "palm-grove-sea-view-canvas-print-gravel-gum",
+   "title": "Palm Grove Sea View Canvas Print - Gravel & Gum",
+   "caption": "Coconut palms leaning over a turquoise sea, Far North Queensland, photographed by Gravel & Gum.",
+   "published": "2026-11-28T09:59:44+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0b39be427.jpg?v=1795820358",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0b39bf1d0.jpg?v=1795820358",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b0a0b39bf21a.jpg?v=1795820358"
+   ],
+   "variants": [
+    {
+     "id": "68623783067936",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0b39be427.jpg?v=1795820358"
+    },
+    {
+     "id": "68623783100704",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0b39bf1d0.jpg?v=1795820358"
+    },
+    {
+     "id": "68623783133472",
+     "options": [
+      "20″×30″"
+     ],
+     "price": 129.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6b0a0b39bf21a.jpg?v=1795820358"
+    }
+   ]
+  },
+  {
    "id": "15568834461984",
    "handle": "palm-on-the-point-canvas-print-gravel-gum",
    "title": "Palm on the Point Canvas Print - Gravel & Gum",
@@ -2051,6 +2215,32 @@
      "price": 129.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-20x30-front-6aec5e4d19df8.jpg?v=1793875547"
+    }
+   ]
+  },
+  {
+   "id": "15660895240480",
+   "handle": "pigface-flower-canvas-print-gravel-gum",
+   "title": "Pigface Flower Canvas Print - Gravel & Gum",
+   "caption": "A bright magenta pigface flower opening among fleshy green coastal leaves, Port Macquarie, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-28T10:32:30+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Title"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a12e666fd2.jpg?v=1795822323"
+   ],
+   "variants": [
+    {
+     "id": "68623965389088",
+     "options": [
+      "Default Title"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a12e666fd2.jpg?v=1795822323"
     }
    ]
   },
@@ -3291,6 +3481,42 @@
      "price": 159.95,
      "available": true,
      "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-24x36-front-6af9553d96e92.jpg?v=1794725185"
+    }
+   ]
+  },
+  {
+   "id": "15660817678624",
+   "handle": "spinifex-on-the-beach-canvas-print-gravel-gum",
+   "title": "Spinifex on the Beach Canvas Print - Gravel & Gum",
+   "caption": "A tuft of spinifex grass on the sand with the surf rolling in under a streaked blue sky, Tweed Coast, NSW, photographed by Gravel & Gum.",
+   "published": "2026-11-28T09:56:22+11:00",
+   "rank": null,
+   "opener": false,
+   "optionNames": [
+    "Size"
+   ],
+   "images": [
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0a6e6a895.jpg?v=1795820153",
+    "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0a6e6b792.jpg?v=1795820153"
+   ],
+   "variants": [
+    {
+     "id": "68623749677344",
+     "options": [
+      "12″×18″"
+     ],
+     "price": 79.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-12x18-front-6b0a0a6e6a895.jpg?v=1795820153"
+    },
+    {
+     "id": "68623749710112",
+     "options": [
+      "16″×24″"
+     ],
+     "price": 109.95,
+     "available": true,
+     "image": "https://cdn.shopify.com/s/files/1/0951/9598/8256/files/canvas-_in_-16x24-front-6b0a0a6e6b792.jpg?v=1795820153"
     }
    ]
   },
